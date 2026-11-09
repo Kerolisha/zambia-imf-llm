@@ -1,0 +1,1082 @@
+{
+"_default": {
+"1": {
+"key": "82016a371bb29b61774209962351865c",
+"seconds": 14.94,
+"text": "{\"summary\": \"This section reports that the Executive Board completed the sixth ECF review on January 27, 2026, approving a disbursement of SDR 138.9 million (about US$190 million) and granting a performance criterion waiver. Executive Board Acting Chair Clarke calls on the authorities to maintain prudent macroeconomic policies, fiscal discipline, and prudent borrowing while protecting social spending. He urges them to advance debt restructuring, carefully calibrate monetary policy to steer inflation toward target, rebuild reserve buffers, sustain exchange rate flexibility, and pursue governance and energy reforms to foster growth.\"}",
+"tokens_in": 2228,
+"tokens_out": 121
+},
+"10": {
+"key": "01ce27e2571b6dd319f7b9f5324df1e5",
+"seconds": 5.87,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 3273,
+"tokens_out": 37
+},
+"100": {
+"key": "a14bdc04ef3462c355bb82f64b4c1af9",
+"seconds": 6.1,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"Every claim in the answer is directly supported by facts presented in the provided passages.\",\n  \"completeness_reason\": \"The answer provides a comprehensive overview of the short-term, medium-term, and long-term plans for solar power mentioned across the passages, covering overall targets, project pipelines, regulatory streamlining, and strategic partnerships.\"\n}",
+"tokens_in": 3185,
+"tokens_out": 98
+},
+"101": {
+"key": "33c958a419737b23a93289ead8277755",
+"seconds": 6.1,
+"text": "{\n  \"answer\": \"The banking sector remains well-capitalized with stable and satisfactory asset quality:\\n\\n- **Bank Capital:** The banking sector is well-capitalized, with the capital adequacy ratio remaining stable and all banks meeting minimum regulatory requirements. As of September 2025, the total regulatory capital to risk-weighted assets was 24.5 percent (up from 24.4 percent at end-2024), Tier 1 regulatory capital to risk-weighted assets was 23.2 percent, and capital to total assets was 12.5 percent.\\n- **Asset Quality:** Asset quality remains stable and satisfactory. The non-performing loan (NPL) ratio improved to 3.5 percent as of September 2025 compared to 4.1 percent at end-2024. In addition, loan loss provisioning has remained strong at above 90 percent of total non-performing loans, reaching 99.2 percent as of September 2025.\",\n  \"citations\": [\"W017\", \"W085\", \"W139\"],\n  \"answerable\": true\n}",
+"tokens_in": 3289,
+"tokens_out": 250
+},
+"102": {
+"key": "afbf4b0379edd5fadd3738fb124fc686",
+"seconds": 6.03,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts, qualitative descriptions, and specific numerical indicators for both bank capital adequacy and asset quality are directly supported by passages [W017], [W085], and [W139].\",\n  \"completeness_reason\": \"The answer completely addresses the prompt by explaining the strength and stability of both bank capital and asset quality, providing both qualitative assessments and quantitative metrics found in the text and data tables.\"\n}",
+"tokens_in": 3528,
+"tokens_out": 117
+},
+"103": {
+"key": "810df178c700de9e7a4da0eaa94ce4b4",
+"seconds": 7.41,
+"text": "{\n  \"answer\": \"To handle rising mining revenues, the fiscal framework should introduce an operational fiscal rule anchored on the non-mining primary balance to mitigate fiscal procyclicality and account for revenue volatility. Any mining revenues exceeding budget projections due to favorable price or quantity shocks could be used to reduce expensive debt or clear arrears. Additionally, the framework should maintain adequate precautionary buffers, allow flexibility to scale up growth-enhancing spending within absorption capacities, and consider establishing a sovereign wealth or resource fund that is properly integrated into the budget process and the fiscal policy anchor.\",\n  \"citations\": [\n    \"W033\",\n    \"W115\",\n    \"W116\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2646,
+"tokens_out": 155
+},
+"104": {
+"key": "800cb9ac0db3e27082a9f163aca1c4bc",
+"seconds": 5.16,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"Every claim in the answer is directly supported by the provided text, specifically drawn from passages W115, W033, and W116.\",\n  \"completeness_reason\": \"The answer provides a comprehensive overview of how the fiscal framework should handle rising mining revenues based on the text, covering the adoption of an operational fiscal rule (non-mining primary balance), handling windfalls above budget projections (debt reduction and arrears clearance), balancing growth-enhancing expenditures with capacity constraints, and integrating a sovereign wealth/resource fund into the budget.\"\n}",
+"tokens_in": 2782,
+"tokens_out": 142
+},
+"105": {
+"key": "e7dc3a5f588b5c64e5e8a292113314c5",
+"seconds": 8.58,
+"text": "{\n  \"answer\": \"The revised Banking and Financial Services Act (BFSA) and the deposit insurance framework introduce several major changes:\\n\\n1. **Revised Banking Law (BFSA):**\\n- **Supervisory Objectives and Scope:** Clarifies that the primary supervisory objective is the safety and soundness of Zambia's financial system, continues coverage across banks and non-bank financial institutions, and expands market access by introducing new license categories for community banking, virtual banking, and alternative financial services, while clarifying licensing and revocation rules.\\n- **Ownership and Control:** Broadens the definition of significant shareholding and strengthens notification and approval processes for changes in ownership and control.\\n- **Corporate Governance:** Defines board duties and responsibilities, broadens disqualification and removal grounds for directors and senior officers, and empowers the Bank of Zambia (BoZ) to assess collective board suitability.\\n- **Prudential Regulation and Policy Tools:** Continues setting capital, liquidity, and leverage standards; grants consolidated supervision powers over banking groups; incorporates macroprudential instruments (such as loan-to-value, loan-to-income, and loan-to-deposit ratios, systemic risk capital buffers, and sectoral risk weights); and enables early intervention and supervisory enforcement.\\n- **Resolution Regime:** Establishes a modern resolution framework designating the BoZ as the financial resolution authority with the objectives, powers, and tools to manage institution failures.\\n\\n2. **Deposit Insurance Framework:**\\n- **Mandate and Coverage:** Establishes a deposit protection scheme aimed at depositor protection and financial stability under a \\\"paybox plus\\\" mandate, enabling it to pay out insured deposits during liquidation and provide capped financial contributions in resolution (such as transfers to an acquirer or bridge bank).\\n- **Structure and Governance:** Initially established as a transitory scheme administered by a BoZ committee with the Deposit Insurance Fund (DIF) held at the BoZ; the accompanying Deposit Insurance Bill establishes the Zambia Deposit Insurance Corporation (ZDIC) as an independent legal entity governed by a board chaired by the BoZ Governor.\\n- **Operational Improvements:** Aims over time to significantly reduce deposit payout periods in line with international core principles.\",\n  \"citations\": [\n    \"W037\",\n    \"W038\",\n    \"W123\",\n    \"W126\",\n    \"W165\",\n    \"W166\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 516
+},
+"106": {
+"key": "9b8d9d5910c7252714e55b24c7e378d2",
+"seconds": 5.76,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer accurately reflects the information in the provided passages without any hallucinations or unverified claims. Every key change mentioned for both the revised BFSA and the deposit insurance framework directly corresponds to facts detailed in the text.\",\n  \"completeness_reason\": \"The answer provides a thorough and comprehensive response to the question, detailing the key changes introduced by the revised banking law (BFSA) across supervision, ownership, governance, prudential rules, and resolution, as well as the changes brought about by the new deposit insurance framework (mandate, structure/governance, and operational goals).\"\n}",
+"tokens_in": 3135,
+"tokens_out": 147
+},
+"107": {
+"key": "46dc193f7ef5c2c7dd0281011ef4c24c",
+"seconds": 3.15,
+"text": "{\n  \"answer\": \"I am sorry, but the provided passages do not contain information regarding Zambia's national unemployment rate.\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2990,
+"tokens_out": 42
+},
+"108": {
+"key": "31c1d5c81b638b41df418abd1432efc3",
+"seconds": 6.66,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 1,\n  \"faithfulness_reason\": \"The answer accurately states that the provided passages do not contain information about Zambia's national unemployment rate.\",\n  \"completeness_reason\": \"The passages do not provide data on the national unemployment rate, so the question could not be answered.\"\n}",
+"tokens_in": 3040,
+"tokens_out": 79
+},
+"109": {
+"key": "5c57d994fb14afcafc4ad15abc600f06",
+"seconds": 0.87,
+"text": "{\n  \"answer\": \"Staff projects real GDP growth at 5.2 percent for 2025, which reflects lower-than-projected hydropower generation and mining production but is up from 3.8 percent in 2024. For 2026, staff projects real GDP growth at 5.8 percent, driven by mining output supported by the ramp-up in investments, while agriculture normalizes after the 2025 rebound, and construction is supported by road and airport infrastructure projects; this growth is constrained by limited hydropower generation and periodic load management continuing to weigh on non-mining economic performance.\",\n  \"citations\": [\n    \"W140\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 158
+},
+"11": {
+"key": "0415db1561404275308dc5b7226cb1a1",
+"seconds": 15.31,
+"text": "{\"summary\":\"Staff reports that program performance remains broadly satisfactory, though structural conditionality faced delays. End-June 2025 quantitative performance criteria and indicative targets were largely met, except for net international reserves and spending arrears clearance. To address the reserve shortfall, the authorities request a waiver supported by reduced foreign exchange sales and selling $90 million in bonds in December 2025. Only eight of 19 structural benchmarks were met. The section notes the authorities will continue engaging with IMF staff before submitting the revised Anti-Corruption Act to Parliament.\"}",
+"tokens_in": 662,
+"tokens_out": 114
+},
+"110": {
+"key": "6944a8141d2ed89c86febdf8eb4c6e8f",
+"seconds": 4.36,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer accurately reflects the information in the provided passages without any hallucinations or misstatements.\",\n  \"completeness_reason\": \"The answer completely and clearly addresses both the projected real GDP growth rates for 2025 and 2026 and the factors/drivers influencing them as described by staff in the text.\"\n}",
+"tokens_in": 2823,
+"tokens_out": 97
+},
+"111": {
+"key": "ef10cfc3c37db795be8cb3711f5a359a",
+"seconds": 0.71,
+"text": "{\n  \"answer\": \"The quantitative performance criterion on the net international reserves (NIR) was missed. A waiver for its non-observance was requested, supported by corrective policy measures which include a further calibrated reduction in foreign exchange sales and the sale of government bonds held by the Bank of Zambia to purchase foreign exchange from the market.\",\n  \"citations\": [\n    \"W021\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 3041,
+"tokens_out": 94
+},
+"112": {
+"key": "0736675ee3cc23e617801be5ce95f51a",
+"seconds": 5.29,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"Every claim in the answer is directly supported by passage [W021].\",\n  \"completeness_reason\": \"The answer accurately identifies the missed quantitative performance criterion (NIR) and explains why the waiver was requested, citing the non-observance and the corrective policy measures supporting the request as stated in the text.\"\n}",
+"tokens_in": 3132,
+"tokens_out": 97
+},
+"113": {
+"key": "2fc929c36cc3cff4ac298a5fb0db1d33",
+"seconds": 0.67,
+"text": "{\n  \"answer\": \"The provided passages do not contain information regarding a decision made by the Bank of Zambia on the policy rate in November 2025.\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2792,
+"tokens_out": 50
+},
+"114": {
+"key": "5eccd1c1dda5594c145dbf8a8abd0def",
+"seconds": 6.73,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 3,\n  \"faithfulness_reason\": \"The answer accurately states that the provided text does not contain information about the Bank of Zambia's policy rate decision in November 2025.\",\n  \"completeness_reason\": \"The passages do not mention any specific policy rate decision or reasoning for November 2025, although they discuss the broader policy rate framework and inflation targeting principles.\"\n}",
+"tokens_in": 2850,
+"tokens_out": 102
+},
+"115": {
+"key": "ace51cfc0ea2c0da14e086e780363dbf",
+"seconds": 0.73,
+"text": "{\n  \"answer\": \"Zambia's risk of both overall and external debt distress is rated as high. However, Zambia's public debt is assessed as sustainable.\",\n  \"citations\": [\n    \"W198\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2843,
+"tokens_out": 62
+},
+"116": {
+"key": "2ed024b3ed64228a5659aa37e99d6522",
+"seconds": 3.31,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer accurately reflects the information in the provided passages without any hallucinations or extrapolations.\",\n  \"completeness_reason\": \"The answer directly and fully addresses both parts of the question, noting the high risk rating for external and overall debt distress and confirming that debt is assessed as sustainable.\"\n}",
+"tokens_in": 2902,
+"tokens_out": 88
+},
+"117": {
+"key": "87a848952a4fa2fe3aa9681b3407215b",
+"seconds": 1.07,
+"text": "{\n  \"answer\": \"Fuel-related arrears are being repaid through a liability management operation (LMO) that involves negotiations with suppliers resulting in significant discounts on late interest payments. The operation is financed by $420 million in loans from domestic banks (with maturities of 3 to 5 years, interest rates below 13.25 percent, and repayments secured by non-tradable government bonds in local currency) and $74 million from government revenues in 2024. As of October 2025, $828 million in arrears were settled by paying $415 million over 2024-25 and committing to pay $116 million in three equal installments between 2026-28 for one supplier in lieu of discounted interest.\",\n  \"citations\": [\n    \"W018\",\n    \"W019\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2824,
+"tokens_out": 202
+},
+"118": {
+"key": "a2cc36cd3792b206e2b26d2f3fc74fba",
+"seconds": 5.77,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts stated in the answer, including the LMO framework, negotiated discounts, financing breakdown ($420 million bank loans and $74 million revenues), loan terms, and settlement schedules, are completely supported by passages W018 and W019.\",\n  \"completeness_reason\": \"The answer thoroughly explains how the arrears are being repaid, addressing the strategy, the negotiation terms/discounts, the financing mechanisms, and the payment timeline.\"\n}",
+"tokens_in": 3015,
+"tokens_out": 124
+},
+"119": {
+"key": "82b1c46b72aa219b07c0d44c2fec0792",
+"seconds": 1.17,
+"text": "{\n  \"answer\": \"The Food Reserve Agency (FRA) creates fiscal risks by operating beyond its reserve mandate, purchasing maize significantly in excess of targeted levels (such as buying 1.668 million tonnes at an estimated cost of K 11.3 billion against a budget of 543,000 tonnes), incurring shortfalls (amounting to K 9.0 billion or 0.9 percent of GDP), lacking cost recovery on sales, transportation, storage, and fumigation, and relying on local bank financing and debt. Committed reforms include revising the Food Reserve Agency Act to streamline its mandate to maintain the National Strategic Food Reserve only as necessary for food security, requiring the FRA to operate using market-based prices and strictly as a buyer of last resort, confining future operations to the Agency's own resources, publishing audited financial accounts and drought response audits, and aligning related agricultural marketing and credit acts.\",\n  \"citations\": [\n    \"W108\",\n    \"W145\",\n    \"W169\",\n    \"W111\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2686,
+"tokens_out": 240
+},
+"12": {
+"key": "8e473629f70c7026bc7df19272f052b6",
+"seconds": 8.49,
+"text": "{\n  \"consistency\": 4,\n  \"completeness\": 3,\n  \"factual_alignment\": 4,\n  \"faults\": [\n    \"Omits the performance on end-September 2025 indicative targets.\",\n    \"Omits that an additional six structural benchmarks were completed with delay, creating an incomplete picture of structural conditionality implementation.\",\n    \"Omits key unmet structural benchmarks, including continuous benchmarks on open access, PPP fiscal risk coverage, and the e-voucher audit.\"\n  ]\n}",
+"tokens_in": 754,
+"tokens_out": 114
+},
+"120": {
+"key": "4db9747d68ce55fdbe378b40476ead90",
+"seconds": 3.55,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer directly reflects the information provided in the passages regarding both the specific fiscal costs/risks created by the Food Reserve Agency (e.g., massive over-purchasing, budget shortfalls, bank debt, below-cost recovery) and the various policy and legislative reform commitments.\",\n  \"completeness_reason\": \"The response fully and comprehensively addresses both parts of the question.\"\n}",
+"tokens_in": 2899,
+"tokens_out": 108
+},
+"121": {
+"key": "e074ca7efc6c9aeb369d8ed751585e76",
+"seconds": 0.99,
+"text": "{\n  \"answer\": \"The plan for solar power involves integrating solar energy into the grid to bridge the electricity gap and enhance the national energy mix. The government has streamlined the solar project approval process to cut the timeframe from over six months to 48 hours, with targets to install over 1,000 MW of solar capacity. Additionally, ZESCO and the private sector are investing in grid-connected utility-scale projects and green cities, and the Integrated Resource Plan (IRP) focuses on increasing renewable energy investments\u2014notably solar PV and wind power\u2014to raise the renewable energy share of total generation to 33 percent by 2030 and 56 percent by 2050.\",\n  \"citations\": [\n    \"W100\",\n    \"W103\",\n    \"W107\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2845,
+"tokens_out": 190
+},
+"122": {
+"key": "c447128716a28125922c0e635f1b0de3",
+"seconds": 5.82,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"Every claim in the answer is fully supported by the provided text, accurately drawing details from passages W100, W103, and W107.\",\n  \"completeness_reason\": \"The answer provides a comprehensive overview of the plans for solar power in diversifying the energy mix, including short-term targets, streamlined approval processes, utility and green city investments, and long-term renewable generation targets outlined in the IRP.\"\n}",
+"tokens_in": 3016,
+"tokens_out": 120
+},
+"123": {
+"key": "045660e230f224b231e6e291f0354a41",
+"seconds": 0.8,
+"text": "{\n  \"answer\": \"The banking sector remains well-capitalized with a total regulatory capital adequacy ratio reaching 24.5 percent as of September 2025, and all banks meeting minimum requirements. Asset quality is satisfactory and stable, with the non-performing loans (NPLs) ratio improving to 3.5 percent and loan loss provisions remaining above 90 percent of total non-performing loans (99.2 percent as of September 2025).\",\n  \"citations\": [\n    \"W017\",\n    \"W085\",\n    \"W139\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 3289,
+"tokens_out": 145
+},
+"124": {
+"key": "639cd63e87a4d03da73f4737ffbb9b6c",
+"seconds": 5.16,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts presented in the answer, including the well-capitalized status, the 24.5 percent capital adequacy ratio, all banks meeting requirements, the satisfactory and stable asset quality, the 3.5 percent NPL ratio, and loan loss provisioning metrics, are directly drawn from passages W017, W085, and W139.\",\n  \"completeness_reason\": \"The answer directly and thoroughly addresses both aspects of the prompt (bank capital strength and asset quality) with qualitative evaluations and specific supporting data from the text.\"\n}",
+"tokens_in": 3414,
+"tokens_out": 144
+},
+"125": {
+"key": "e323291f60d1c3dd3fb0357ed81f2a76",
+"seconds": 0.95,
+"text": "{\n  \"answer\": \"To handle rising mining revenues and address commodity price volatility, the fiscal framework should introduce an operational fiscal rule anchored on the non-resource or non-mining primary balance (NRPB) to guide debt convergence, reduce procyclicality, and account for revenue volatility. Additionally, any mining revenues exceeding budget projections from favorable price or quantity shocks should be directed toward reducing expensive debt or clearing arrears. The establishment of a sovereign wealth fund (SWF) should only be considered as part of this revamped fiscal framework, must remain fully integrated with the budget process under the control of the Ministry of Finance, and should not be created outside of the central government budget process.\",\n  \"citations\": [\n    \"W033\",\n    \"W146\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2646,
+"tokens_out": 173
+},
+"126": {
+"key": "a5c2418c8ba9a3258b8617ca3272439d",
+"seconds": 5.62,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All statements in the answer are directly supported by the provided text (specifically passages W033, W116, and W146).\",\n  \"completeness_reason\": \"The answer fully addresses the question by detailing the operational fiscal rule anchored on the non-mining primary balance, how excess revenues should be allocated (debt reduction/clearing arrears), and the conditions for establishing a sovereign wealth fund.\"\n}",
+"tokens_in": 2808,
+"tokens_out": 116
+},
+"127": {
+"key": "cb39c9e31448c0ac83bfd0b58f10faa6",
+"seconds": 1.09,
+"text": "{\n  \"answer\": \"The revised Banking and Financial Services Act (BFSA) enhances Zambia's financial regulatory and supervisory framework by clarifying licensing objectives and conditions, broadening significant shareholding definitions, strengthening corporate governance, setting prudential requirements, enabling consolidated supervision, and introducing a modern resolution regime in line with international standards. Meanwhile, the deposit insurance framework establishes a deposit protection scheme with a \\\"paybox plus\\\" mandate to protect depositors and contribute to financial stability, initially managed by the Bank of Zambia through directives and later transitioned to a standalone institution, the Zambia Deposit Insurance Corporation (ZDIC), via primary legislation.\",\n  \"citations\": [\n    \"W123\",\n    \"W166\",\n    \"W165\",\n    \"W038\",\n    \"W037\",\n    \"W126\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 189
+},
+"128": {
+"key": "0a9709bb43f84f96dba21f1eb386a4bf",
+"seconds": 3.96,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer accurately reflects all details from the provided passages regarding the changes brought by both the revised Banking and Financial Services Act and the deposit insurance framework, with no hallucinated or unsupported claims.\",\n  \"completeness_reason\": \"The response completely answers the question by clearly explaining the key regulatory, supervisory, and resolution changes from the revised banking law, as well as the mandate, objectives, and institutional transition introduced by the deposit insurance framework.\"\n}",
+"tokens_in": 2814,
+"tokens_out": 118
+},
+"129": {
+"key": "a8ace137162adfd47a0fc6ad4a3636cc",
+"seconds": 0.55,
+"text": "{\n  \"answer\": \"\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2990,
+"tokens_out": 22
+},
+"13": {
+"key": "1f7d8730b60ddc88dff70fd39010ab18",
+"seconds": 15.13,
+"text": "{\"summary\": \"Staff report broadly satisfactory performance. End-June 2025 performance criteria were largely met, and end-September 2025 indicative targets were met except for net international reserves. The authorities request a waiver, supported by selling $90 million in bonds in December 2025. Eight of 19 structural benchmarks were met, and an additional six were completed with delay. Unmet benchmarks include two continuous targets on open access, PPP fiscal risk coverage, and the 2024-25 e-voucher audit. The section asks the authorities to continue engaging with staff before submitting the revised Anti-Corruption Act.\"}",
+"tokens_in": 854,
+"tokens_out": 136
+},
+"130": {
+"key": "16498f8935cf31e5cb845d77dc720bb0",
+"seconds": 7.87,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 1,\n  \"faithfulness_reason\": \"The answer is blank and contains no factual claims, so it does not contradict or extrapolate beyond the provided text.\",\n  \"completeness_reason\": \"No answer was provided to address the question.\"\n}",
+"tokens_in": 3020,
+"tokens_out": 70
+},
+"131": {
+"key": "e50ec73d4bb553bc09f4bcbd713ee131",
+"seconds": 1.43,
+"text": "{\n  \"gdp_growth_forecast_pct\": {\n    \"value\": 5.8,\n    \"year\": 2026,\n    \"pdf_page\": 4,\n    \"evidence\": \"Real GDP growth (%) ... 2026 ... 5.8\",\n    \"reason\": null\n  },\n  \"headline_inflation_rate_pct\": {\n    \"value\": 9.3,\n    \"year\": 2026,\n    \"pdf_page\": 4,\n    \"evidence\": \"Inflation annual average (%) ... 2026 ... 9.3\",\n    \"reason\": null\n  },\n  \"central_bank_policy_rate_pct\": {\n    \"value\": 14.25,\n    \"year\": 2025,\n    \"pdf_page\": 115,\n    \"evidence\": \"Nevertheless, the BoZ lowered its policy rate by 25 basis points to 14.25 in November 2025\",\n    \"reason\": null\n  },\n  \"non_performing_loan_ratio\": {\n    \"value\": 3.5,\n    \"year\": 2025,\n    \"pdf_page\": 40,\n    \"evidence\": \"Past due advances (NPL) to total advances ... 2025 Sep ... 3.5\",\n    \"reason\": null\n  },\n  \"unemployment_rate_pct\": {\n    \"value\": null,\n    \"year\": null,\n    \"pdf_page\": null,\n    \"evidence\": null,\n    \"reason\": \"The national unemployment rate is not stated in the provided pages.\"\n  },\n  \"tier_1_capital_ratio\": {\n    \"value\": 23.2,\n    \"year\": 2025,\n    \"pdf_page\": 40,\n    \"evidence\": \"Tier 1 regulatory capital to risk-weighted assets ... 2025 Sep ... 23.2\",\n    \"reason\": null\n  }\n}",
+"tokens_in": 13848,
+"tokens_out": 474
+},
+"132": {
+"key": "8b48c5a2c5e32b7b990b8321a2eef837",
+"seconds": 4.82,
+"text": "{\n  \"answer\": \"For 2025, staff projects real GDP growth at 5.2 percent (up from 3.8 percent in 2024), though this is lower than earlier projections due to lower-than-projected hydropower generation and mining production. For 2026, real GDP growth is projected at 5.8 percent (or 5.6 percent in executive summary estimates). \\n\\nThe primary drivers of this growth include:\\n- Mining output as the main growth driver, supported by a ramp-up in investments.\\n- Agriculture normalizing after its 2025 rebound.\\n- Construction supported by road and airport infrastructure projects.\\n\\nGrowth continues to be constrained by limited hydropower generation and periodic load management, which weigh on non-mining economic activity.\",\n  \"citations\": [\n    \"W140\",\n    \"W007\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 205
+},
+"133": {
+"key": "863921b771a30dfaf9e53164f8e91e04",
+"seconds": 4.48,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts in the response are directly supported by the provided text, including the projections for both years, the drivers of growth, and the mentioned constraints.\",\n  \"completeness_reason\": \"The answer completely addresses both parts of the question by stating the projected real GDP growth rates for 2025 and 2026 as well as detailing the drivers and headwinds.\"\n}",
+"tokens_in": 2859,
+"tokens_out": 107
+},
+"134": {
+"key": "6e1b8831c75aed89019a90618d794a67",
+"seconds": 3.87,
+"text": "{\n  \"answer\": \"The quantitative performance criterion (QPC) missed was the end-June 2025 QPC on the Net International Reserves (NIR). A waiver for non-observance was requested because the QPC was missed due to lower-than-projected foreign exchange (FX)-related mining tax inflows, which were only partly offset by a reduction in FX sales by the central bank. The request was supported by corrective policy measures, including a further calibrated reduction in FX sales and the sale of BoZ-held government bonds to purchase $90 million in FX from the market.\",\n  \"citations\": [\n    \"W021\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 3041,
+"tokens_out": 150
+},
+"135": {
+"key": "0bdb2320b5567fccc9fc087b1e0e18bf",
+"seconds": 4.22,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts presented in the response are directly sourced from passage [W021].\",\n  \"completeness_reason\": \"The response fully answers which QPC was missed (end-June 2025 NIR) and explains the reasons behind the waiver request, including the underlying cause and the supporting corrective policy measures.\"\n}",
+"tokens_in": 3188,
+"tokens_out": 97
+},
+"136": {
+"key": "2558c48421c30e79a2fcc630f093612a",
+"seconds": 3.89,
+"text": "{\n  \"answer\": \"I am sorry, but the provided passages do not contain information about what the Bank of Zambia decided on the policy rate in November 2025 or the reasons for such a decision.\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2792,
+"tokens_out": 60
+},
+"137": {
+"key": "92557cd53e08696dd1653f0722482d72",
+"seconds": 6.04,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 3,\n  \"faithfulness_reason\": \"The answer accurately states that the provided passages do not contain information regarding a decision made by the Bank of Zambia on the policy rate in November 2025 or the reasons for it.\",\n  \"completeness_reason\": \"The passages do not provide the answer to what the Bank of Zambia decided on the policy rate in November 2025 or why, although they touch upon monetary policy and policy rate frameworks generally; thus, the answer correctly notes the absence of this information, receiving a score of 3 for completeness as instructed.\"\n}",
+"tokens_in": 2860,
+"tokens_out": 140
+},
+"138": {
+"key": "9c1ee22a6a050edc80c2e765054e6ede",
+"seconds": 2.72,
+"text": "{\n  \"answer\": \"Zambia's public debt is assessed as sustainable, but it remains at high risk of both external and overall debt distress.\",\n  \"citations\": [\n    \"W198\",\n    \"W225\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2843,
+"tokens_out": 66
+},
+"139": {
+"key": "c34ae1015b7500c55af9a1f00a8e14ed",
+"seconds": 3.78,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer directly and accurately reflects the statements in the text, which explicitly confirm that public debt is assessed as sustainable and at high risk of both overall and external debt distress.\",\n  \"completeness_reason\": \"The response clearly answers both parts of the question: the rating of the risk of debt distress (high for both external and overall debt) and whether the debt is considered sustainable (yes).\"\n}",
+"tokens_in": 2898,
+"tokens_out": 110
+},
+"14": {
+"key": "05c85d8f679ffa0d55348b4416001042",
+"seconds": 9.22,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 4,\n  \"faults\": [\n    \"The summary omits that the end-June 2025 indicative target on spending arrears clearance was also missed alongside the NIR quantitative performance criterion.\",\n    \"The summary states that 'the section asks the authorities to continue engaging', whereas the text reports the authorities' existing intention to continue engaging with staff regarding the pending Anti-Corruption Act benchmark.\"\n  ]\n}",
+"tokens_in": 775,
+"tokens_out": 113
+},
+"140": {
+"key": "0403682f0e4a793c6420a9ee1ffb06e4",
+"seconds": 3.18,
+"text": "{\n  \"answer\": \"Fuel-related arrears are being repaid through a liability management operation (LMO) following negotiated discounts with suppliers. As of October 2025, the authorities settled $828 million in arrears by paying $415 million over 2024\u20132025 and agreeing to pay $116 million (or $115.7 million) in discounted interest to one supplier in three equal annual installments between 2026\u20132028 (having paid principal and one interest installment upfront).\\n\\nThe settlement financing comprised:\\n- $420 million in 3-to-5-year domestic bank loans (with interest rates below 13 \u00bc percent).\\n- $74 million funded from 2024 government revenues.\\n\\nRepayments on these domestic bank loans are secured by non-tradable government bonds, made in local currency, and aligned with debt service by reopening government bonds.\",\n  \"citations\": [\n    \"W018\",\n    \"W019\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2824,
+"tokens_out": 240
+},
+"141": {
+"key": "150c4ee0ff86dfcbe50acc2734ac6b73",
+"seconds": 6.07,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer is entirely supported by the provided text, accurately summarizing the details of the liability management operation, payment amounts, installment schedule, and loan financing mechanisms from passages W018 and W019.\",\n  \"completeness_reason\": \"The answer provides a complete and thorough explanation of how the fuel-related arrears are being repaid, including the financing sources, negotiation discounts, and repayment schedule.\"\n}",
+"tokens_in": 3050,
+"tokens_out": 112
+},
+"142": {
+"key": "a2026e7e2860c528bbcc3d318670ae09",
+"seconds": 7.11,
+"text": "{\n  \"answer\": \"The Food Reserve Agency (FRA) creates significant fiscal costs and risks, including:\\n- As of end-October 2025, the FRA purchased 1.668 million metric tonnes (MT) of maize costing about K 11.3 billion (compared to K 1.3 billion budgeted), generating an FRA shortfall of about K 9.0 billion (0.9 percent of GDP).\\n- Implicit subsidies of approximately K 800 per MT resulting from a lack of cost recovery on transportation, storage, and fumigation for community sales.\\n- Securing K 5 billion in local bank debt collateralized by maize to pay farmers, creating a potential financing shortfall of K 2 billion (0.3 percent of GDP) in 2026 that risks renewed arrear accumulation or off-budget borrowing.\\n\\nTo address these distortions and fiscal risks, committed reforms include:\\n- Revising the Food Reserve Agency Act (submitted alongside the Agricultural Marketing Act and Agricultural Credit Act) to streamline and confine the FRA's mandate strictly to maintaining the National Strategic Food Reserve for food security and emergency response.\\n- Requiring the FRA to operate strictly as a buyer of last resort at transparent, market-based prices to avoid competing with the private sector.\\n- Ensuring future FRA operations are fully self-financed from its own resources and that sales achieve cost recovery.\\n- Enhancing transparency by publishing FRA's audited financial accounts (such as the 2024 accounts published in November 2025) and audits of government procurement and logistics.\\n- Delinking e-voucher program eligibility from compulsory crop sales to the FRA.\",\n  \"citations\": [\n    \"W145\",\n    \"W169\",\n    \"W111\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2686,
+"tokens_out": 393
+},
+"143": {
+"key": "b010d40a44f045f0c81c16ac62b74469",
+"seconds": 4.97,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts and numbers mentioned in the answer regarding the Food Reserve Agency's fiscal costs, shortfalls, debt, and committed legal and operational reforms are fully supported by passages W145, W169, and W111.\",\n  \"completeness_reason\": \"The response completely and accurately addresses both components of the prompt, detailing the specific fiscal costs/risks created by the agency as well as the package of reform commitments.\"\n}",
+"tokens_in": 3057,
+"tokens_out": 122
+},
+"144": {
+"key": "0dbfe7cab36f480ebc64e9ae46ca5b55",
+"seconds": 6.06,
+"text": "{\n  \"answer\": \"To diversify its energy mix and address electricity shortages, the plan for solar power includes:\\n\\n1. **Integration and Capacity Targets**: The government is implementing a multi-phase plan to integrate solar energy into the national grid, targeting over 1,000 MW of solar capacity installed by end-2025. Around 1,000 MW of solar projects (such as Chisamba, Choma, Kasama, and Kariba) are under construction with phased commissioning through 2026.\\n2. **Streamlined Approvals**: The Ministry of Energy cut the solar project approval process from over six months to 48 hours to accelerate development.\\n3. **Utility-Scale and Private Sector Investments**: ZESCO and private investors are funding grid-connected utility-scale projects (adding 1,265 MW) and green cities (adding 80 MW).\\n4. **Strategic Partnerships**: A partnership signed with Tanzania's AMSONS Group in December 2025 is expected to add 500 MW of solar to the grid within 18 months and the full 1,300 MW within 24 months.\\n5. **Long-Term Goals (IRP 2023\u201350)**: Under the Integrated Resource Plan, solar PV and wind investments aim to increase the share of renewable energy from 3 percent of total generation to 33 percent by 2030 and 56 percent by 2050.\",\n  \"citations\": [\n    \"W100\",\n    \"W103\",\n    \"W105\",\n    \"W107\",\n    \"W170\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2845,
+"tokens_out": 379
+},
+"145": {
+"key": "8dacfec31904ceb7b5e8b8f5e8d40513",
+"seconds": 6.08,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All statements and figures in the response are directly supported by the provided text, including the approval timelines, capacity targets, project names, partnership details, and long-term IRP goals.\",\n  \"completeness_reason\": \"The answer provides a thorough overview of both short-term targets (streamlined approvals, ongoing utility-scale projects, and partnerships) and long-term strategic plans under the Integrated Resource Plan (IRP).\"\n}",
+"tokens_in": 3187,
+"tokens_out": 117
+},
+"146": {
+"key": "f757909534f4980df660c885ee0aecd2",
+"seconds": 3.88,
+"text": "{\n  \"answer\": \"The banking sector remains well-capitalized and asset quality is stable and satisfactory:\\n\\n- **Capital Adequacy:** As of September 2025, the sector was well-capitalized with all banks meeting minimum capital requirements. The total regulatory capital adequacy ratio was 24.5 percent (up from 24.4 percent at end-2024), Tier 1 capital to risk-weighted assets stood at 23.2 percent, and capital to total assets was 12.5 percent.\\n- **Asset Quality:** Non-performing loans (NPLs) as a percentage of total advances improved to 3.5 percent in September 2025 (compared to 4.1 percent at end-2024). Loan loss provisions to NPLs remained high, reaching 99.2 percent in September 2025 (up from 91.2 percent in 2024).\",\n  \"citations\": [\n    \"W017\",\n    \"W085\",\n    \"W139\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 3289,
+"tokens_out": 252
+},
+"147": {
+"key": "f7690d69cf70414e5ae9398eb0cf6127",
+"seconds": 5.42,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts and figures in the answer are directly supported by the text and data tables provided in passages W017, W085, and W139.\",\n  \"completeness_reason\": \"The answer directly and thoroughly addresses both bank capital adequacy and asset quality using the specific qualitative assessments and quantitative metrics provided in the passages.\"\n}",
+"tokens_in": 3519,
+"tokens_out": 100
+},
+"148": {
+"key": "72cc3e6043d6cc69554df6905f608f1c",
+"seconds": 3.41,
+"text": "{\n  \"answer\": \"To handle rising mining revenues and their associated volatility, the fiscal framework should:\\n\\n1. **Adopt an Operational Fiscal Rule:** Implement a rule anchored on the non-mining primary balance (NRPB) to mitigate fiscal procyclicality, focus on a controllable fiscal indicator, and support debt reduction toward statutory limits.\\n2. **Direct Excess Revenues Toward Debt and Arrears:** Allocate any mining revenues that exceed budget projections (due to positive price or quantity shocks) to paying down expensive debt or clearing arrears.\\n3. **Integrate Sovereign Wealth Fund (SWF) Considerations:** Consider establishing a Sovereign Wealth Fund only as part of the revamped fiscal framework, ensuring it is fully integrated into the budget process under the control of the ministry of finance (MoFNP), rather than outside the central government budget. Such a fund can manage inflows from corporate taxes and royalties to finance the non-resource deficit or act as a liquidity reserve for contingencies.\",\n  \"citations\": [\n    \"W033\",\n    \"W116\",\n    \"W118\",\n    \"W146\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2646,
+"tokens_out": 250
+},
+"149": {
+"key": "bcee6b382da88147470faa7a0a62a6e8",
+"seconds": 6.44,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All points in the answer are directly grounded in the provided text, specifically from passages W033, W116, W118, and W146.\",\n  \"completeness_reason\": \"The answer completely and clearly outlines how the fiscal framework should handle rising mining revenues according to the passages, including adopting an operational fiscal rule targeting the non-mining primary balance, directing excess revenues to debt reduction and arrears clearance, and integrating a sovereign wealth/stabilization fund into the budget process.\"\n}",
+"tokens_in": 2867,
+"tokens_out": 134
+},
+"15": {
+"key": "bcfd577639eebf202307bad7fbb76bdc",
+"seconds": 14.55,
+"text": "{\"summary\":\"Staff reports that growth is projected at 5.2 percent in 2025 and 5.8 percent in 2026, with average inflation easing to 14 percent in 2025. While public debt remains sustainable, staff assesses it at high risk of distress, noting downside risks from trade tensions and upcoming elections. Under the baseline, the authorities expect to rollover non-resident amortization in 2026 and ease non-resident allocations to 15 percent of primary bond issuances from 2027. Staff indicates the authorities should remove this residency-based capital inflow measure as conditions allow.\"}",
+"tokens_in": 1623,
+"tokens_out": 135
+},
+"150": {
+"key": "3eccdc941172d9bd6e81f042ce7450e0",
+"seconds": 5.12,
+"text": "{\n  \"answer\": \"The revised Banking and Financial Services Act (BFSA) and the new deposit insurance framework bring several key changes to align Zambia's financial legal system with international standards:\\n\\n1. **Revised Banking and Financial Services Act (BFSA):**\\n   - **Supervisory Scope & Licensing:** Clarifies that the primary objective of supervision is the safety and soundness of the financial system. It introduces additional license types (community banking, alternative financial services, and virtual banking) and refines licensing conditions and revocation procedures [W123].\\n   - **Ownership & Control:** Broadens the definition of significant shareholding and strengthens notification and approval processes for ownership changes [W123].\\n   - **Corporate Governance:** Details the duties of the board, expands grounds for disqualification/removal of directors and senior officers, and allows the Bank of Zambia (BoZ) to assess collective board suitability [W123].\\n   - **Prudential Regulation & Tools:** Expands supervisory tools (e.g., loan-to-value, loan-to-income, loan-to-deposit ratios, capital buffers, sectoral risk weights), enables consolidated supervision of banking groups, and sets minimum capital, liquidity, and leverage requirements [W123, W165].\\n   - **Resolution Regime:** Introduces a modern resolution framework providing BoZ with the objectives, powers, and tools necessary to manage failing financial institutions [W123, W037].\\n\\n2. **Deposit Insurance Framework:**\\n   - **Establishment of Scheme & ZDIC:** Sets up a deposit protection scheme managed initially by the BoZ, with a draft Deposit Insurance Bill establishing the Zambia Deposit Insurance Corporation (ZDIC) as a distinct legal entity to manage the Deposit Insurance Fund (DIF) [W166, W038, W126].\\n   - **Mandate & Operations:** Adopts a \\\"paybox plus\\\" mandate aimed at protecting depositors and supporting financial stability. It allows payouts to insured depositors in liquidations and permits limited financial contributions in resolution cases (such as transfers to acquirers or bridge banks) [W126].\",\n  \"citations\": [\n    \"W037\",\n    \"W038\",\n    \"W123\",\n    \"W126\",\n    \"W165\",\n    \"W166\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 529
+},
+"151": {
+"key": "6c054304977a8e09d2fd0e1d8f1554da",
+"seconds": 3.71,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All details in the response regarding the revised Banking and Financial Services Act and the deposit insurance framework are strictly supported by the provided passages.\",\n  \"completeness_reason\": \"The response provides a comprehensive and accurate overview of the changes introduced by both the revised banking law and the deposit insurance framework as detailed in the source texts.\"\n}",
+"tokens_in": 3141,
+"tokens_out": 95
+},
+"152": {
+"key": "9213b8382b7b1948250c2ea85199347d",
+"seconds": 2.01,
+"text": "{\n  \"answer\": \"I am sorry, but the provided passages do not contain information about Zambia's national unemployment rate.\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2990,
+"tokens_out": 42
+},
+"153": {
+"key": "38162f3c1d376d79df482a4818efe218",
+"seconds": 12.31,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 1,\n  \"faithfulness_reason\": \"The answer correctly identifies that the provided passages do not contain information regarding Zambia's national unemployment rate, without making any unsupported claims.\",\n  \"completeness_reason\": \"The question asks for Zambia's national unemployment rate, but the passages do not contain this information, so the question remains completely unanswered.\"\n}",
+"tokens_in": 3040,
+"tokens_out": 92
+},
+"154": {
+"key": "a731f006e586800c454e36eb3572dda4",
+"seconds": 11.85,
+"text": "{\"gdp_growth_forecast_pct\": {\"value\": 5.8, \"year\": 2026, \"pdf_page\": 4, \"evidence\": \"Real GDP growth (%) 6.2 5.2 5.4 3.8 5.2 5.8 6.0\", \"reason\": null}, \"headline_inflation_rate_pct\": {\"value\": 9.3, \"year\": 2026, \"pdf_page\": 4, \"evidence\": \"Inflation annual average (%) 22.0 11.0 10.9 15.0 14.0 9.3 7.5\", \"reason\": null}, \"central_bank_policy_rate_pct\": {\"value\": 14.25, \"year\": 2025, \"pdf_page\": 115, \"evidence\": \"Nevertheless, the BoZ lowered its policy rate by 25 basis points to 14.25 in November 2025, after having maintained a tightening cycle between 2024 and February 2025 during which time the policy rate was cumulatively increased by 350 basis points to address rising inflation and currency depreciation.\", \"reason\": null}, \"non_performing_loan_ratio\": {\"value\": 3.5, \"year\": 2025, \"pdf_page\": 40, \"evidence\": \"Past due advances (NPL) to total advances 7.3 9.7 12.0 11.0 8.9 11.6 5.8 5.0 4.2 4.1 3.5\", \"reason\": null}, \"unemployment_rate_pct\": {\"value\": null, \"year\": null, \"pdf_page\": null, \"evidence\": null, \"reason\": \"The national unemployment rate is not stated in the provided text.\"}, \"tier_1_capital_ratio\": {\"value\": 23.2, \"year\": 2025, \"pdf_page\": 40, \"evidence\": \"Tier 1 regulatory capital to risk-weighted assets 19.2 23.4 24.5 20.1 20.1 17.8 23.3 21.9 22.8 23.0 23.2\", \"reason\": null}}",
+"tokens_in": 13848,
+"tokens_out": 540
+},
+"16": {
+"key": "c357189ea487388dbf80e46640692b7a",
+"seconds": 6.9,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1736,
+"tokens_out": 37
+},
+"17": {
+"key": "ea84f45cc67ce7abff9f1d025bf28df4",
+"seconds": 19.85,
+"text": "{\n  \"summary\": \"Staff reports that Zambia achieved sizable fiscal consolidation, projecting a 2025 primary balance of 2.2 percent of GDP, while the authorities target a 2026 primary balance of 3.8 percent of GDP. Staff notes this tight policy constrains development without stronger revenue mobilization. Staff asks the authorities to expand the tax base by unifying corporate income tax rates, removing exemptions, and implementing capital gains taxes. Additionally, staff urges adopting an operational non-mining fiscal rule, directing excess mining revenue toward debt reduction, and addressing public enterprise risks.\"\n}",
+"tokens_in": 2874,
+"tokens_out": 122
+},
+"18": {
+"key": "5ced7b39f07261fcdf789fd5dac00f0d",
+"seconds": 5.56,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 2969,
+"tokens_out": 37
+},
+"19": {
+"key": "f8c9a3c1b84d18fc869d9a0022489b50",
+"seconds": 13.81,
+"text": "{\"summary\": \"Staff reports that end-June 2025 net international reserves reached $1,892 million against a $2,250 million target, widening by end-September 2025 to $2,063 million against a $2,550 million target, while the authorities are removing multiple currency practices. Staff advises the Bank of Zambia to prudently calibrate further policy rate easing, maintain forward-looking communication, and strengthen monetary transmission through operational framework reforms. Furthermore, staff asks the authorities to scale up reserve accumulation through calibrated foreign exchange sales, opportunistic purchases, and a deepened interbank market.\"}",
+"tokens_in": 845,
+"tokens_out": 133
+},
+"2": {
+"key": "0aa96b9682f55fbd0f929f9bdc1de1ed",
+"seconds": 6.7,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 3,\n  \"factual_alignment\": 5,\n  \"faults\": [\n    \"Omits key macroeconomic outlook figures (such as real GDP growth projections for 2025 and 2026 and the inflation path) as well as the total cumulative program disbursements.\"\n  ]\n}",
+"tokens_in": 2328,
+"tokens_out": 82
+},
+"20": {
+"key": "d4de11328e31b602bc82830fa614882a",
+"seconds": 6.95,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 955,
+"tokens_out": 37
+},
+"21": {
+"key": "3fbbc1de79d03dbc949d26f3f2e9cf96",
+"seconds": 14.39,
+"text": "{\"summary\": \"This section reports progress in strengthening financial surveillance, bank resolution frameworks, and central bank safeguards. Under the Stability and Resilience Facility, the BoZ disbursed K 2.3 billion of its K 5 billion envelope, while planning a K 5 billion facility for early 2026. Staff cautions against risks from October 2025 domestic kwacha settlement directives. The text asks the authorities to establish safeguards and exit strategies for credit facilities, pair de-dollarization with market incentives, safeguard central bank autonomy, and implement outstanding recommendations on monetary data compilation and internal audit.\"}",
+"tokens_in": 1009,
+"tokens_out": 122
+},
+"22": {
+"key": "46c3d612ae2ebb33deceeafa68df5561",
+"seconds": 7.73,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1108,
+"tokens_out": 37
+},
+"23": {
+"key": "3da7a0bb701a03d222e82cdb28cf5075",
+"seconds": 13.04,
+"text": "{\"summary\": \"IMF staff report that Zambia faces persistent poverty and structural bottlenecks, noting delayed structural benchmarks, including the revised Anti-Corruption Act, asset declaration reforms, and the 2024/25 e-voucher independent audit. While acknowledging the authorities submitted key agricultural acts in November 2025 and improved diesel pricing via the Tazama pipeline since April 2025, staff call on the authorities to continue strengthening governance, enhance policy buffers, resolve pipeline open-access implementation challenges, and tackle entrenched structural issues to expand access to electricity, education, and jobs.\"}",
+"tokens_in": 727,
+"tokens_out": 120
+},
+"24": {
+"key": "e772eeb7cce8eeced887ebfa4fbd73b1",
+"seconds": 11.87,
+"text": "{\n  \"consistency\": 4,\n  \"completeness\": 4,\n  \"factual_alignment\": 4,\n  \"faults\": [\n    \"The summary groups asset declaration reforms under delayed structural benchmarks, whereas the source text reports them as delayed reforms without designating them as an explicit structural benchmark (SB).\"\n  ]\n}",
+"tokens_in": 824,
+"tokens_out": 74
+},
+"25": {
+"key": "7addb57f8c49fe4a6606effda6cf2f4f",
+"seconds": 15.72,
+"text": "{\"summary\": \"IMF staff report persistent poverty and structural bottlenecks in Zambia, noting delayed structural benchmarks for the revised Anti-Corruption Act and the 2024/25 e-voucher independent audit, alongside delayed asset declaration reforms. Staff highlight agricultural bills submitted in November 2025 and Tazama pipeline diesel price drops since April 2025, despite continuous open-access benchmark challenges. Staff urge the authorities to tackle entrenched issues to expand access to electricity, education, and jobs, while continuing to strengthen governance and improve policy buffers to support private sector-led growth and economic resilience.\"}",
+"tokens_in": 890,
+"tokens_out": 123
+},
+"26": {
+"key": "9f2552d6e809213d76551e1f9554e0d9",
+"seconds": 9.53,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 827,
+"tokens_out": 37
+},
+"27": {
+"key": "6c33fb9dac0e37bad0c7d832ffeff382",
+"seconds": 18.83,
+"text": "{\n  \"summary\": \"Staff reports that the program is fully financed through January 2026, with IMF financing covering 25 percent of 2022\u201325 BOP needs. Staff assesses capacity to repay as adequate, projecting debt to the Fund will peak at 5.7 percent of GDP in 2025, and supports completing the financing assurances review. The authorities are pursuing good-faith restructuring efforts covering about 94 percent of perimeter debt. Staff asks the authorities to focus reforms on upgrading government finance statistics, debt management, national accounts, and External Sector Statistics consistency and timeliness.\"\n}",
+"tokens_in": 681,
+"tokens_out": 129
+},
+"28": {
+"key": "f6d0cafe7e5de20cba95fb0c18402710",
+"seconds": 10.14,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 2,\n  \"faults\": [\n    \"Commitment/initiative misattributed: The source states that the IMF's Capacity Development (CD) strategy will focus on supporting the authorities' own reform priorities, whereas the summary claims staff asked the authorities to focus reforms on these areas.\",\n    \"Factual inaccuracy regarding debt restructuring: The text specifies that agreements already cover about 94 percent of debt within the restructuring perimeter, while good-faith efforts refer to ongoing negotiations with private commercial creditors, rather than restructuring efforts simply covering 94 percent.\"\n  ]\n}",
+"tokens_in": 783,
+"tokens_out": 144
+},
+"29": {
+"key": "5fcba56de3eef50058c7c7de848bdb70",
+"seconds": 31.66,
+"text": "{\"summary\": \"Staff reports that the program is fully financed through January 2026, with IMF financing covering 25 percent of 2022-25 BOP needs. Staff supports completing the financing assurances review, noting agreements cover about 94 percent of perimeter debt, while the authorities make good-faith restructuring efforts with private commercial creditors. Staff assesses capacity to repay the Fund as adequate, projecting debt to peak at 5.7 percent of GDP in 2025. The section does not direct actions to the authorities; instead, IMF capacity development will support the authorities' own reform priorities.\"}",
+"tokens_in": 915,
+"tokens_out": 128
+},
+"3": {
+"key": "41d18e10683a8009a2f9ce852f3f8120",
+"seconds": 17.8,
+"text": "{\n  \"summary\": \"This section reports that the Executive Board completed Zambia's sixth ECF review, approving SDR 138.9 million and bringing total program disbursements to SDR 1,271.66 million. IMF staff projects real GDP growth at 5.2 percent in 2025 and 5.8 percent in 2026, with inflation gradually converging toward the 6-8 percent target band by 2027. Executive Board Acting Chair Clarke asks the authorities to sustain fiscal consolidation while protecting social spending, ensure prudent borrowing, advance debt restructuring, calibrate monetary policy, rebuild reserves, and strengthen governance.\"\n}",
+"tokens_in": 2400,
+"tokens_out": 139
+},
+"30": {
+"key": "19715613da0ff2dddc61515de85411ee",
+"seconds": 9.76,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 4,\n  \"faults\": [\n    \"The summary states 'projecting debt to peak at 5.7 percent of GDP in 2025' without explicitly clarifying that this refers specifically to debt owed to the IMF rather than total public or external debt.\"\n  ]\n}",
+"tokens_in": 786,
+"tokens_out": 88
+},
+"31": {
+"key": "97a40412f9b65c1879b9e94dff71e5e4",
+"seconds": 18.83,
+"text": "{\"summary\":\"Staff reports that Zambia maintained broadly satisfactory program performance under the ECF arrangement, projecting real GDP growth at 5.2 percent for 2025 and 5.8 percent for 2026, with inflation averaging 9.3 percent for 2026. Staff supports completing the sixth review and waiving the missed end-June 2025 net international reserves target. Staff asks the authorities to strengthen revenue mobilization, curb arrears through faster IFMIS rollout and TSA consolidation, maintain prudent monetary policy, rebuild foreign exchange reserves, finalize removing MCPs by early 2026, and advance anti-corruption reforms.\"}",
+"tokens_in": 1150,
+"tokens_out": 136
+},
+"32": {
+"key": "4a8bc0ac3b74eb74071fad257e722c8f",
+"seconds": 6.51,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1265,
+"tokens_out": 37
+},
+"33": {
+"key": "b51ce6e1b680ae7cf1732ffc9c45bbc9",
+"seconds": 15.37,
+"text": "{\n  \"summary\": \"This section presents estimates and projections from IMF staff and the Zambian authorities covering real output, balance of payments, debt, and fiscal operations through 2031. Staff project real GDP growth of 5.2 percent in 2025 and total public debt declining to 48.3 percent of GDP in 2031. The tables make no direct policy demands, but Table 7 requires the authorities to observe continuous and periodic performance criteria and complete program reviews through October 2025 to receive disbursements totaling SDR 1,271.66 million.\"\n}",
+"tokens_in": 28957,
+"tokens_out": 130
+},
+"34": {
+"key": "0d077b45fdf7c820edb0485e0d82998f",
+"seconds": 6.91,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 29060,
+"tokens_out": 37
+},
+"35": {
+"key": "d4439dd2b92a8256b21c8932f5310a72",
+"seconds": 18.04,
+"text": "{\"summary\": \"This annex reports that severe drought in 2024 disrupted Zambia's hydropower grid, leaving a deficit of nearly MW707 in 2025 and driving electricity imports to 52 percent of generation in 2024Q4. The authorities are expanding solar capacity under their 2023-50 plan to diversify supply. IMF staff emphasizes that closing the widening 2026 deficit requires the authorities to restore ZESCO's financial sustainability, resolve its debt and liquidity problems, and implement a new multi-year tariff plan to ensure medium-term cost-recovery.\"}",
+"tokens_in": 3465,
+"tokens_out": 130
+},
+"36": {
+"key": "7cb3f836427df960c522e22139e11d2d",
+"seconds": 6.6,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 3572,
+"tokens_out": 37
+},
+"37": {
+"key": "9c06cbcf13f779d07ae197e3eec91d6a",
+"seconds": 35.22,
+"text": "{\"summary\": \"Staff reports that Food Reserve Agency purchases of MT1.65 million in 2025 cost K11.2 billion (1.4 percent of GDP), creating a K4.8 billion shortfall in 2025 covered by K5 billion (0.6 percent of GDP) in bank loans. The authorities justified purchases on food security grounds and indicated possible government maize sales. The section asks the authorities to submit revised Food Reserve Agency, Agricultural Marketing, and Agricultural Credit Acts by September 2025, confine agency operations strictly to strategic reserves at market prices, and publish 2024 audited accounts.\"}",
+"tokens_in": 1765,
+"tokens_out": 134
+},
+"38": {
+"key": "7bb8dc260a3e5f3d161d3096d892a213",
+"seconds": 11.59,
+"text": "{\n  \"consistency\": 4,\n  \"completeness\": 3,\n  \"factual_alignment\": 2,\n  \"faults\": [\n    \"Commitments made by the authorities under the Fourth and Fifth Reviews (submitting revised Acts to Parliament, confining operations to strategic reserves, and publishing audited accounts) are mischaracterized as recommendations or requests made by staff ('The section asks the authorities to submit...').\"\n  ]\n}",
+"tokens_in": 1876,
+"tokens_out": 95
+},
+"39": {
+"key": "5a45546d92ff955825d9954f6eff182d",
+"seconds": 43.56,
+"text": "{\n  \"summary\": \"Staff reports that Food Reserve Agency purchases of MT1.65 million in 2025 cost K11.2 billion (1.4 percent of GDP), creating a K4.8 billion shortfall in 2025 covered by K5 billion (0.6 percent of GDP) in bank loans. The authorities justified purchases on food security grounds and indicated possible government maize sales. Under Fourth and Fifth Reviews, the authorities committed to submit revised Food Reserve Agency, Agricultural Marketing, and Agricultural Credit Acts by September 2025, confine agency operations to strategic reserves at market prices, and publish 2024 audited accounts.\"\n}",
+"tokens_in": 1962,
+"tokens_out": 141
+},
+"4": {
+"key": "e2f9f4da8c45b7d5bba6ce99ce94f11a",
+"seconds": 5.69,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 2342,
+"tokens_out": 37
+},
+"40": {
+"key": "161236c6defcc0bd87cf4ea6bfb7dbb7",
+"seconds": 6.19,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1879,
+"tokens_out": 37
+},
+"41": {
+"key": "1a7a6d86e42c938a1758d69a248c4149",
+"seconds": 8.75,
+"text": "{\n  \"summary\": \"In Annex III, IMF staff report domestic and global risks that could alter the baseline path, assessing their likelihoods and impacts. Staff identify low-likelihood threats, defined as below 10 percent probability, such as climate events, social discontent, and debt restructuring delays, alongside high-likelihood external risks with a 30 to 50 percent probability. To mitigate these shocks, staff ask the authorities to maintain exchange rate flexibility, protect vulnerable households, advance governance reforms, expedite revenue-based fiscal consolidation, enhance public investment management, and implement structural reforms to boost diversification and resilience.\"\n}",
+"tokens_in": 1190,
+"tokens_out": 126
+},
+"42": {
+"key": "702412c16b3a0d3e98c37404b7d6483b",
+"seconds": 5.57,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1289,
+"tokens_out": 37
+},
+"43": {
+"key": "dcc85e413f28aa2066a4c886468fa023",
+"seconds": 14.89,
+"text": "{\"summary\": \"This section reports that public debt is projected at 86 percent of GDP by end-2025, while the authorities remain committed to a fiscal rule adopted in 2022 capping debt at 65 percent of GDP by 2027 and are considering establishing a Sovereign Wealth Fund. IMF staff recommend that the authorities prioritize adopting an operational fiscal rule targeting the non-resource primary balance, accelerate public financial management reforms, and introduce a central bank-managed stabilization fund integrated into the budget to manage resource revenue volatility.\"}",
+"tokens_in": 1556,
+"tokens_out": 113
+},
+"44": {
+"key": "046a1fd973a0bf93ae3cf26f002a4daa",
+"seconds": 5.49,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1646,
+"tokens_out": 37
+},
+"45": {
+"key": "28a06fb9210e57ca81c90333aa307647",
+"seconds": 16.42,
+"text": "{\"summary\": \"This section reports Zambia's fiscal structural reforms under the ECF arrangement, noting progress in debt management, tax administration, and fiscal risk reporting, alongside ongoing vulnerabilities from public-private partnerships ($8.3 billion total contract value) and state-owned enterprises (liabilities of 0.6 percent of 2024 GDP). Staff urges the authorities to consolidate government accounts into the Treasury Single Account, transition revenue authorities to risk-based audits, integrate climate considerations into investment planning as recommended by the IMF in 2025, and outline comprehensive mitigation plans for fiscal risks.\"}",
+"tokens_in": 1503,
+"tokens_out": 123
+},
+"46": {
+"key": "d209471fae880e2fc8935ccc9092ac8a",
+"seconds": 9.05,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1603,
+"tokens_out": 37
+},
+"47": {
+"key": "14861cecf8367d8a5c19d12e771e608f",
+"seconds": 19.6,
+"text": "{\"summary\":\"Staff report that Zambia's revised Banking and Financial Services Act and deposit insurance framework enhance financial supervision, introduce modern resolution tools, and establish depositor protection up to K 250,000. Staff call on the authorities to allocate implementation resources, operationalize resolution procedures, coordinate financing with the Ministry of Finance, and establish an independent resolution unit. Additionally, staff urge the Bank of Zambia to execute fund governance, build funding capacity, and accelerate payouts toward the seven working day target.\"}",
+"tokens_in": 2065,
+"tokens_out": 103
+},
+"48": {
+"key": "797aea158b35e66943c225108a6d9fee",
+"seconds": 3.6,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 2146,
+"tokens_out": 37
+},
+"49": {
+"key": "4de37fd8c98ca172471223c2cd4c8dcb",
+"seconds": 17.46,
+"text": "{\"summary\": \"This section reports that the authorities advanced fuel-sector reforms since 2022, removing fuel subsidies costing 3.9 percent of GDP over 2020-21 and establishing automatic monthly pricing in December 2024. Additionally, the authorities operationalized Tazama pipeline open access in April 2025, reducing post-reform average premiums to US$59 per ton and saving consumers around US$6.7 million per month in 2025. Staff assess that sustaining these gains requires the authorities to continue adhering to competitive tendering, avoid administrative bottlenecks, and fully enforce open-access rules.\"}",
+"tokens_in": 1229,
+"tokens_out": 136
+},
+"5": {
+"key": "f279ef198bb3fce4f6c87ef572725f45",
+"seconds": 19.09,
+"text": "{\"summary\": \"Staff report that growth is projected at around 5.3 percent over the medium term, while average inflation is expected to ease to 14 percent in 2025 and reach 8.2 percent by end-December 2026. Staff note downside risks with baseline uncertainty. Staff advise the authorities to preserve program gains and debt sustainability through revenue-based fiscal consolidation, an inflation-anchoring monetary stance, and strengthened financial policies. Additionally, staff ask the authorities to prioritize governance, accountability, the rule of law, and private sector development.\"}",
+"tokens_in": 541,
+"tokens_out": 119
+},
+"50": {
+"key": "32f48036ae332b07eafc0f9de1c730e4",
+"seconds": 9.53,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1341,
+"tokens_out": 37
+},
+"51": {
+"key": "c33e29dbcb2d3153f046b6263fc0e014",
+"seconds": 12.76,
+"text": "{\n  \"summary\": \"The Zambian authorities report that real GDP grew by 4.9 percent in the first half of 2025, public debt declined to 86 percent of GDP by end-June 2025, and most program targets were met. The text does not ask the authorities to act; instead, the authorities commit to maintaining fiscal consolidation, limiting external borrowing, concluding remaining debt restructurings, and revising the Anti-Corruption Act in consultation with the IMF. The authorities also request that the IMF complete the sixth review and grant a performance criterion waiver.\"\n}",
+"tokens_in": 1252,
+"tokens_out": 125
+},
+"52": {
+"key": "960741ca40ef05c5eb6f9c65dea94ed1",
+"seconds": 8.62,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 1350,
+"tokens_out": 37
+},
+"53": {
+"key": "e4e0a6da32fa06f0a196bdf4a5520094",
+"seconds": 19.9,
+"text": "{\"summary\": \"This section reports the authorities' assessment of economic developments, macroeconomic outlook, and performance under the Extended Credit Facility arrangement. The authorities project real GDP growth at 5.2 percent in 2025 and 5.8 percent in 2026. The memorandum commits the authorities to maintain fiscal consolidation, targeting a 2026 cash primary surplus of K 33.7 billion, and refrain from non-concessional external borrowing. As a prior action, it requires the authorities to submit the revised Banking and Financial Services Bill to Parliament, while pursuing energy, debt, and governance reforms.\"}",
+"tokens_in": 18811,
+"tokens_out": 130
+},
+"54": {
+"key": "f5ceb12730b3821ab37af1caba77f508",
+"seconds": 5.58,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 18918,
+"tokens_out": 37
+},
+"55": {
+"key": "e2afba4ce7a1bfdac1395a3be2b44d64",
+"seconds": 14.85,
+"text": "{\"summary\":\"Bank-Fund staff assess Zambia's public debt as sustainable but at high risk of distress, with debt-carrying capacity rated weak in October 2025. External PPG debt on a contractual basis is projected at US$21.7 billion at end-2025. The authorities agree with staff's assessment. To restore debt sustainability, staff require the authorities to maintain cash primary surpluses averaging 3.6 percent of GDP over 2026\u201330, finalize remaining commercial debt restructurings on comparable terms, avoid non-concessional borrowing, mobilize domestic revenues, and address fiscal risks from ZESCO.\"}",
+"tokens_in": 23977,
+"tokens_out": 136
+},
+"56": {
+"key": "576eefdc9cf586941ea12af163cff5ef",
+"seconds": 19.18,
+"text": "{\n  \"consistency\": 4,\n  \"completeness\": 3,\n  \"factual_alignment\": 2,\n  \"faults\": [\n    \"The summary states that 'staff require the authorities' to maintain primary surpluses and undertake specific reforms, whereas the text notes that debt sustainability hinges on the authorities' own commitments under their program and baseline macroeconomic assumptions; staff do not unilaterally require these actions in a DSA.\"\n  ]\n}",
+"tokens_in": 24089,
+"tokens_out": 95
+},
+"57": {
+"key": "97be3c382380d5048f7c5b14cd933004",
+"seconds": 24.95,
+"text": "{\"summary\": \"Bank-Fund staff assess Zambia's public debt as sustainable but at high risk of distress, with debt-carrying capacity rated weak in October 2025. External PPG debt on a contractual basis is projected at US$21.7 billion at end-2025. The authorities agree with staff's assessment. The section reports that restoring debt sustainability hinges on the authorities' program commitments to maintain cash primary surpluses averaging 3.6 percent of GDP over 2026\u201330, finalize remaining commercial debt restructurings on comparable terms, and implement fiscal and structural reforms.\"}",
+"tokens_in": 24178,
+"tokens_out": 129
+},
+"58": {
+"key": "a4a3dc325b928744ba3d98da6c9ab7d5",
+"seconds": 6.34,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 24081,
+"tokens_out": 37
+},
+"59": {
+"key": "73ac55b8bdb4375060c439dcfbaec2bd",
+"seconds": 14.02,
+"text": "{\"summary\": \"Staff report that the Bank of Zambia built reserves to support a waiver request for the end-June 2025 quantitative performance criterion, lifting gross reserves to US$5.5 billion (about 4.3 months of prospective imports) and net international reserves to US$2.3 billion at end-December 2025. Staff also report that the authorities removed multiple currency practices by adopting official market exchange rates for tax payments. The statement does not ask the authorities to take new actions; instead, staff will continue monitoring these non-representative official exchange rates.\"}",
+"tokens_in": 479,
+"tokens_out": 121
+},
+"6": {
+"key": "bf522f8f3a7bd784f48e3a15d5f22a21",
+"seconds": 5.83,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 640,
+"tokens_out": 37
+},
+"60": {
+"key": "ed5b576e5b395d7851428669e3f8d173",
+"seconds": 5.52,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 575,
+"tokens_out": 37
+},
+"61": {
+"key": "c787bc0b3d5a780ddec055e920916e06",
+"seconds": 18.24,
+"text": "{\"summary\": \"This section conveys the authorities' views, reporting Zambia's economic turnaround, including real GDP growth of 5.2 percent in 2025 and gross international reserves reaching USD 5.5 billion at end-December 2025. Rather than asking the authorities to take action, this statement presents the authorities' own commitments to sustain reforms, pursue further revenue mobilization, and request a successor arrangement by end-January 2026. Simultaneously, the authorities ask the Executive Board to grant a net international reserves waiver and complete the sixth review under the Extended Credit Facility arrangement.\"}",
+"tokens_in": 2947,
+"tokens_out": 125
+},
+"62": {
+"key": "9cde07432aec29ddc43bfd24cef2ac02",
+"seconds": 6.7,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 5,\n  \"faults\": []\n}",
+"tokens_in": 3046,
+"tokens_out": 37
+},
+"63": {
+"key": "2582ce9aa6a969dc983098b18f2a1821",
+"seconds": 10.93,
+"text": "{\"bullets\": [{\"section_id\": \"S04\", \"sentence\": \"Zambia has restored macroeconomic stability under the program, reducing public debt to 86 percent of GDP by mid-2025, finalizing agreements on 94 percent of restructured external debt, and rebuilding gross international reserves to $5.3 billion.\"}, {\"section_id\": \"S07\", \"sentence\": \"Although public debt is projected to remain sustainable, it continues to face a high risk of distress alongside downside risks stemming from trade tensions and upcoming elections.\"}, {\"section_id\": \"S10\", \"sentence\": \"Net international reserves missed program targets through September 2025, underscoring the need to prudently calibrate policy rate easing and scale up reserve accumulation to safeguard external stability.\"}, {\"section_id\": \"S11\", \"sentence\": \"Financial sector frameworks are advancing through emergency credit facilities and central bank safeguards, but domestic kwacha settlement directives introduce potential risks that require market-based de-dollarization incentives.\"}, {\"section_id\": \"S18\", \"sentence\": \"High-likelihood external shocks and climate-related risks continue to threaten the macroeconomic baseline, demanding sustained exchange rate flexibility and accelerated fiscal consolidation.\"}, {\"section_id\": \"S20\", \"sentence\": \"Contingent liabilities pose persistent fiscal and financial risks, particularly from public-private partnerships totaling $8.3 billion in contract value and state-owned enterprise obligations.\"}, {\"section_id\": \"S21\", \"sentence\": \"The revised Banking and Financial Services Act and new deposit insurance framework strengthen financial sector resilience by establishing resolution tools and depositor protection up to K 250,000.\"}]}",
+"tokens_in": 3547,
+"tokens_out": 349
+},
+"64": {
+"key": "88e99db4a5cb98a554fbd204dd8af96f",
+"seconds": 75.78,
+"text": "{\n  \"checks\": [\n    {\n      \"number\": 1,\n      \"supported\": true,\n      \"reason\": \"The source confirms that Zambia has cemented/advanced in restoring macroeconomic stability, public debt dropped to 86 percent of GDP by end-June 2025, agreement was reached on 94 percent of external debt within the restructuring perimeter, and gross international reserves rose to $5.3 billion.\"\n    },\n    {\n      \"number\": 2,\n      \"supported\": true,\n      \"reason\": \"The source explicitly states that public debt is assessed as sustainable but remains at high risk of overall and external debt distress, with downside risks including escalating trade tensions and upcoming election spending pressures.\"\n    },\n    {\n      \"number\": 3,\n      \"supported\": true,\n      \"reason\": \"The source notes that NIR missed targets at end-June and end-September 2025, and emphasizes that further policy rate easing should be prudently calibrated while the BoZ should scale up reserve accumulation under the section on safeguarding price, external, and financial stability.\"\n    },\n    {\n      \"number\": 4,\n      \"supported\": false,\n      \"reason\": \"The source indicates that financial sector frameworks are advancing via macroprudential tools, stress tests, the revised BFSA, and deposit insurance, rather than through credit facilities. The credit facilities are central bank initiatives that require oversight and safeguards to manage balance-sheet risks, while central bank safeguards refer to recommendations from the 2022 safeguards assessment.\"\n    },\n    {\n      \"number\": 5,\n      \"supported\": false,\n      \"reason\": \"In the Risk Assessment Matrix (Annex III), climate-related risks (recurrent drought and extreme climate events) are rated as having a 'Low' relative likelihood (L, below 10 percent), directly contradicting the claim that they are high-likelihood.\"\n    },\n    {\n      \"number\": 6,\n      \"supported\": false,\n      \"reason\": \"Annex V specifies that SOEs and PPPs present significant 'fiscal risks' (mentioning PPPs with contract values of $8.3 billion and SOE liabilities), but the source does not state that contingent liabilities pose 'financial risks'.\"\n    },\n    {\n      \"number\": 7,\n      \"supported\": true,\n      \"reason\": \"Annex VI explicitly describes how the revised BFSA introduces resolution tools and regimes to strengthen the financial sector safety net, while the new deposit insurance framework establishes depositor protection up to K 250,000 per depositor per institution.\"\n    }\n  ]\n}",
+"tokens_in": 9077,
+"tokens_out": 572
+},
+"65": {
+"key": "6beef40f2b77d30027ab35413ab70df0",
+"seconds": 11.17,
+"text": "{\n  \"bullets\": [\n    {\n      \"section_id\": \"S26\",\n      \"sentence\": \"Zambia's public debt remains sustainable but is assessed at high risk of debt distress, leaving medium-term stability reliant on achieving projected primary surpluses and completing remaining commercial debt restructurings.\"\n    },\n    {\n      \"section_id\": \"S10\",\n      \"sentence\": \"Safeguarding external and macroeconomic stability requires accelerated foreign exchange reserve accumulation alongside a carefully calibrated monetary policy stance to anchor inflation.\"\n    },\n    {\n      \"section_id\": \"S11\",\n      \"sentence\": \"Financial stability frameworks are progressing through enhanced surveillance and resolution mechanisms, though Bank of Zambia credit facilities require robust safeguards and exit strategies to mitigate central bank balance-sheet risks.\"\n    },\n    {\n      \"section_id\": \"S18\",\n      \"sentence\": \"The Risk Assessment Matrix rates recurrent climate shocks and debt restructuring delays as low-likelihood risks carrying less than a ten percent probability, contrasting with high-likelihood external threats.\"\n    },\n    {\n      \"section_id\": \"S20\",\n      \"sentence\": \"State-owned enterprises and public-private partnerships with contract values of $8.3 billion represent sizable fiscal risks that necessitate strengthened mitigation plans and oversight.\"\n    },\n    {\n      \"section_id\": \"S21\",\n      \"sentence\": \"Supervisory and resolution frameworks are being reinforced through the revised Banking and Financial Services Act and a new deposit insurance scheme designed to protect depositors up to K 250,000.\"\n    },\n    {\n      \"section_id\": \"S16\",\n      \"sentence\": \"Severe power deficits arising from drought disruptions pose significant downside risks to economic activity, underscoring the urgent need to restore ZESCO's financial sustainability and cost-recovery.\"\n    }\n  ]\n}",
+"tokens_in": 3736,
+"tokens_out": 411
+},
+"66": {
+"key": "ab73b5a3c2209b9552587a419b0c2f9d",
+"seconds": 23.8,
+"text": "{\n  \"checks\": [\n    {\n      \"number\": 1,\n      \"supported\": true,\n      \"reason\": \"The source explicitly states that Zambia's public debt is assessed as sustainable but remains at high risk of overall and external debt distress, with debt sustainability hinging on sustained fiscal consolidation and primary balances alongside completing external debt restructuring.\"\n    },\n    {\n      \"number\": 2,\n      \"supported\": true,\n      \"reason\": \"The text states that safeguarding price, external, and financial stability requires the BoZ to scale up efforts to accumulate foreign exchange reserves while any further easing in policy rates should be carefully calibrated to avoid de-anchoring inflation expectations.\"\n    },\n    {\n      \"number\": 3,\n      \"supported\": true,\n      \"reason\": \"The source confirms that progress has been made to strengthen financial surveillance and resolution mechanisms, while noting that effective oversight of the BoZ's credit facilities is needed with adequate safeguards to manage risks to its balance sheet and clear exit strategies.\"\n    },\n    {\n      \"number\": 4,\n      \"supported\": true,\n      \"reason\": \"The Risk Assessment Matrix assigns a 'Low' (L) likelihood to both recurrent drought/extreme climate events and further delays in debt restructuring negotiations, defined as a probability below 10 percent, while rating the listed global risks as 'High' (H).\"\n    },\n    {\n      \"number\": 5,\n      \"supported\": true,\n      \"reason\": \"The source affirms that SOEs and PPPs present significant fiscal risks, highlights 14 adopted PPP projects with a combined contract value of $8.3 billion, and notes that better risk analysis, mitigation plans, and oversight are needed.\"\n    },\n    {\n      \"number\": 6,\n      \"supported\": true,\n      \"reason\": \"The text describes how the revised Banking and Financial Services Act enhances the regulatory/supervisory framework and resolution regime, and notes that the new deposit insurance scheme covers insured depositors up to K 250,000 per depositor per institution.\"\n    },\n    {\n      \"number\": 7,\n      \"supported\": true,\n      \"reason\": \"The source documents that severe drought severely disrupted hydropower generation and expanded power deficits that hamper economic activity, emphasizing that resolving the deficit and securing energy sector investment hinges on restoring ZESCO's financial sustainability and establishing cost-reflective tariffs.\"\n    }\n  ]\n}",
+"tokens_in": 33671,
+"tokens_out": 531
+},
+"67": {
+"key": "5ee27dd7c926073d8b942b632b47ee4f",
+"seconds": 4.59,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W001\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W002\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W003\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W004\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W005\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W006\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W007\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W008\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W009\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W010\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W011\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W012\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W013\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W014\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W015\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W016\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W017\",\n      \"primary\": \"Banking Capital & Liquidity\"\n    },\n    {\n      \"chunk_id\": \"W018\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W019\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W020\",\n      \"primary\": \"Sovereign Debt\"\n    }\n  ]\n}",
+"tokens_in": 3925,
+"tokens_out": 589
+},
+"68": {
+"key": "4e42b8459f5aedd732ad17b01c4085b9",
+"seconds": 98.69,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W021\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W022\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W023\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W024\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W025\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W026\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W027\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W028\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W029\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W030\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W031\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W032\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W033\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W034\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W035\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W036\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W037\",\n      \"primary\": \"Banking Capital & Liquidity\"\n    },\n    {\n      \"chunk_id\": \"W038\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W039\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W040\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 4911,
+"tokens_out": 561
+},
+"69": {
+"key": "18f4defb01187826826ce6eaaf889fc9",
+"seconds": 36.79,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W041\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W042\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W043\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W044\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W045\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W046\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W047\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W048\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W049\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W050\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W051\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W052\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W053\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W054\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W055\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W056\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W057\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W058\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W059\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W060\",\n      \"primary\": \"Sovereign Debt\"\n    }\n  ]\n}",
+"tokens_in": 8256,
+"tokens_out": 579
+},
+"7": {
+"key": "d378c44cdc173cc80c43aadc5b9d974d",
+"seconds": 15.67,
+"text": "{\"summary\":\"IMF staff reports that Zambia restored macroeconomic stability under the ECF arrangement, lowering public debt from 133 percent of GDP in 2023 to 86 percent of GDP by end-June 2025, reaching agreement on 94 percent of restructured external debt, and boosting gross international reserves by $2.2 billion to $5.3 billion in mid-November. Staff notes social spending reached around 8.8 percent of GDP in 2025. Staff calls on the authorities to mobilize revenue, prioritize expenditures, monitor fiscal risks, expand targeted social programs, and implement the revised Anti-Corruption Act.\"}",
+"tokens_in": 1194,
+"tokens_out": 136
+},
+"70": {
+"key": "b4bdbcd3af03817e6a798765a2ba0667",
+"seconds": 23.42,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W061\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W062\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W063\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W064\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W065\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W066\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W067\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W068\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W069\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W070\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W071\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W072\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W073\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W074\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W075\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W076\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W077\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W078\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W079\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W080\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 11517,
+"tokens_out": 555
+},
+"71": {
+"key": "1decc9d7cb4575740f1fd7aa8215fde6",
+"seconds": 106.44,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W081\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W082\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W083\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W084\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W085\",\n      \"primary\": \"Banking Capital & Liquidity\"\n    },\n    {\n      \"chunk_id\": \"W086\",\n      \"primary\": \"Banking Capital & Liquidity\"\n    },\n    {\n      \"chunk_id\": \"W087\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W088\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W089\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W090\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W091\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W092\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W093\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W094\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W095\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W096\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W097\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W098\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W099\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W100\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 11074,
+"tokens_out": 590
+},
+"72": {
+"key": "626bb79a545739924ce73afa87dd461b",
+"seconds": 40.0,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W101\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W102\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W103\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W104\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W105\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W106\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W107\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W108\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W109\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W110\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W111\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W112\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W113\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W114\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W115\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W116\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W117\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W118\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W119\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W120\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 4217,
+"tokens_out": 552
+},
+"73": {
+"key": "82e30269cf174f2bc52324239b5df6ce",
+"seconds": 98.48,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W121\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W122\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W123\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W124\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W125\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W126\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W127\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W128\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W129\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W130\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W131\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W132\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W133\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W134\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W135\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W136\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W137\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W138\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W139\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W140\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 3896,
+"tokens_out": 581
+},
+"74": {
+"key": "350c4c3c55c9d8b30f4fe3a9cc01fa04",
+"seconds": 2.89,
+"text": "{\n  \"tags\": [\n    {\"chunk_id\": \"W141\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W142\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W143\", \"primary\": \"Sovereign Debt\"},\n    {\"chunk_id\": \"W144\", \"primary\": \"Sovereign Debt\"},\n    {\"chunk_id\": \"W145\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W146\", \"primary\": \"Sovereign Debt\"},\n    {\"chunk_id\": \"W147\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W148\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W149\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W150\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W151\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W152\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W153\", \"primary\": \"Sovereign Debt\"},\n    {\"chunk_id\": \"W154\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W155\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W156\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W157\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W158\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W159\", \"primary\": \"none\"},\n    {\"chunk_id\": \"W160\", \"primary\": \"Sovereign Debt\"}\n  ]\n}",
+"tokens_in": 4017,
+"tokens_out": 407
+},
+"75": {
+"key": "a45136335cfd00babd08516be15b0f0c",
+"seconds": 45.11,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W161\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W162\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W163\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W164\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W165\",\n      \"primary\": \"Systemic Financial Risk\"\n    },\n    {\n      \"chunk_id\": \"W166\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W167\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W168\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W169\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W170\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W171\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W172\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W173\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W174\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W175\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W176\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W177\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W178\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W179\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W180\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 4642,
+"tokens_out": 566
+},
+"76": {
+"key": "6fdba98e52591421d9fb11b6ed59bd45",
+"seconds": 24.5,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W181\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W182\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W183\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W184\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W185\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W186\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W187\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W188\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W189\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W190\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W191\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W192\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W193\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W194\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W195\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W196\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W197\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W198\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W199\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W200\",\n      \"primary\": \"Sovereign Debt\"\n    }\n  ]\n}",
+"tokens_in": 4020,
+"tokens_out": 587
+},
+"77": {
+"key": "c0e44e66d39506717461dd9f7077a264",
+"seconds": 29.74,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W201\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W202\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W203\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W204\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W205\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W206\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W207\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W208\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W209\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W210\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W211\",\n      \"primary\": \"Inflation & Prices\"\n    },\n    {\n      \"chunk_id\": \"W212\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W213\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W214\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W215\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W216\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W217\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W218\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W219\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W220\",\n      \"primary\": \"Sovereign Debt\"\n    }\n  ]\n}",
+"tokens_in": 5985,
+"tokens_out": 599
+},
+"78": {
+"key": "6a6d1f0827056b9a6608790172bc8c9a",
+"seconds": 29.31,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W221\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W222\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W223\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W224\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W225\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W226\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W227\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W228\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W229\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W230\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W231\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W232\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W233\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W234\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W235\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W236\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W237\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W238\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W239\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W240\",\n      \"primary\": \"Sovereign Debt\"\n    }\n  ]\n}",
+"tokens_in": 7078,
+"tokens_out": 609
+},
+"79": {
+"key": "7763bdc0793ca063bfe5879a5762a7f1",
+"seconds": 11.49,
+"text": "{\n  \"tags\": [\n    {\n      \"chunk_id\": \"W241\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W242\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W243\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W244\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W245\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W246\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W247\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W248\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W249\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W250\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W251\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W252\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W253\",\n      \"primary\": \"none\"\n    },\n    {\n      \"chunk_id\": \"W254\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W255\",\n      \"primary\": \"Sovereign Debt\"\n    },\n    {\n      \"chunk_id\": \"W256\",\n      \"primary\": \"Interest Rates & Credit\"\n    },\n    {\n      \"chunk_id\": \"W257\",\n      \"primary\": \"Banking Capital & Liquidity\"\n    },\n    {\n      \"chunk_id\": \"W258\",\n      \"primary\": \"none\"\n    }\n  ]\n}",
+"tokens_in": 6263,
+"tokens_out": 541
+},
+"8": {
+"key": "c49cfa38557fac2859cf497418d3d129",
+"seconds": 9.73,
+"text": "{\n  \"consistency\": 5,\n  \"completeness\": 4,\n  \"factual_alignment\": 4,\n  \"faults\": []\n}",
+"tokens_in": 1307,
+"tokens_out": 37
+},
+"80": {
+"key": "013f858842d6df6afbd56382fcdd7723",
+"seconds": 31.21,
+"text": "{\n  \"strengths\": [\n    {\n      \"label\": \"Macroeconomic resilience\",\n      \"explanation\": \"Zambia has demonstrated notable economic resilience in the face of ongoing domestic and external shocks.\",\n      \"pdf_page\": 2,\n      \"quote\": \"Zambia's economy has shown economic strength amid external and domestic shocks.\"\n    },\n    {\n      \"label\": \"Mining and agricultural performance\",\n      \"explanation\": \"Robust performance in mining combined with a bumper maize harvest significantly bolstered economic growth.\",\n      \"pdf_page\": 2,\n      \"quote\": \"Real GDP growth is estimated at 5.2 percent in 2025, underpinned by strong mining activities and record-high maize production.\"\n    },\n    {\n      \"label\": \"External debt restructuring progress\",\n      \"explanation\": \"The authorities have successfully signed multiple bilateral debt restructuring agreements and are advancing discussions with commercial creditors.\",\n      \"pdf_page\": 3,\n      \"quote\": \"External debt restructuring continues to advance as five bilateral agreements with official creditors have been signed, and progress with commercial creditors is advancing.\"\n    },\n    {\n      \"label\": \"Agricultural regulatory framework\",\n      \"explanation\": \"Legislative updates governing the agricultural sector will improve market clarity and encourage private capital.\",\n      \"pdf_page\": 3,\n      \"quote\": \"The revised Agricultural Acts will enhance predictability and support private sector investment.\"\n    },\n    {\n      \"label\": \"Restored investor confidence\",\n      \"explanation\": \"Consistent program implementation has improved sovereign credit ratings and boosted international investor sentiment.\",\n      \"pdf_page\": 6,\n      \"quote\": \"The strong reform drive under the ECF arrangement has improved international investors' confidence including through recent upgrades of the sovereign credit rating.\"\n    },\n    {\n      \"label\": \"Financial stability enhancements\",\n      \"explanation\": \"Upgrades to the banking law and the launch of a deposit insurance mechanism are reinforcing the financial stability framework.\",\n      \"pdf_page\": 3,\n      \"quote\": \"The review of the Banking and Financial Services Act and the adoption of the deposit insurance scheme are welcome steps to strengthen financial stability.\"\n    }\n  ],\n  \"vulnerabilities\": [\n    {\n      \"label\": \"High risk of debt distress\",\n      \"explanation\": \"Public debt remains subject to elevated distress risks across both external and total debt measures.\",\n      \"pdf_page\": 3,\n      \"quote\": \"Zambia's public debt is assessed as sustainable but remains at high risk of overall and external debt distress.\"\n    },\n    {\n      \"label\": \"Poverty, climate, and political pressures\",\n      \"explanation\": \"Widespread poverty, weather shocks, and upcoming elections pose substantial risks to economic stability.\",\n      \"pdf_page\": 6,\n      \"quote\": \"Poverty and inequality remain high, and the economic outlook is vulnerable to external shocks, climate events, and domestic political pressures ahead of the 2026 elections.\"\n    },\n    {\n      \"label\": \"Stalled anti-corruption reforms\",\n      \"explanation\": \"Slow progress in upgrading anti-corruption legislation threatens structural reform execution and curbs economic growth.\",\n      \"pdf_page\": 26,\n      \"quote\": \"Lack of progress in amending the anti-corruption framework undermines the effectiveness of structural reforms and represents a bottleneck to growth.\"\n    },\n    {\n      \"label\": \"Commodity price volatility\",\n      \"explanation\": \"External shifts in commodity prices threaten growth, fiscal health, and financial sector stability.\",\n      \"pdf_page\": 54,\n      \"quote\": \"Spillover from rising commodity price volatility could negatively affect growth, inflation, the balance of payments, and the vulnerability of the financial system.\"\n    },\n    {\n      \"label\": \"Declining international aid\",\n      \"explanation\": \"Reductions in external financial assistance risk exacerbating fiscal pressures and impacting vulnerable segments of the population.\",\n      \"pdf_page\": 54,\n      \"quote\": \"The decline in international development aid may exacerbate pre-existing challenges and significantly affect the most vulnerable groups.\"\n    },\n    {\n      \"label\": \"Power generation constraints\",\n      \"explanation\": \"Ongoing deficits in electricity supply continue to dampen activity across non-mining sectors.\",\n      \"pdf_page\": 26,\n      \"quote\": \"Economic activity has expanded although at a slower pace as electricity generation continues to weigh on the non-mining sector.\"\n    }\n  ]\n}",
+"tokens_in": 5770,
+"tokens_out": 983
+},
+"81": {
+"key": "74cfbccf0f8ed44352b012a1c8339310",
+"seconds": 39.11,
+"text": "{\"strengths\":[{\"label\":\"Economic Resilience\",\"explanation\":\"Zambia's economy has demonstrated stability and sustained expansion despite suffering domestic and external shocks.\",\"pdf_page\":2,\"quote\":\"Zambia's economy has shown economic strength amid external and domestic shocks.\"},{\"label\":\"Mining and Agriculture Production\",\"explanation\":\"Real GDP growth is being propelled by higher mining output and an unprecedented maize harvest.\",\"pdf_page\":2,\"quote\":\"Real GDP growth is estimated at 5.2 percent in 2025, underpinned by strong mining activities and record-high maize production.\"},{\"label\":\"External Debt Restructuring\",\"explanation\":\"The sovereign debt restructuring process has advanced through signed bilateral agreements with official creditors.\",\"pdf_page\":3,\"quote\":\"External debt restructuring continues to advance as five bilateral agreements with official creditors have been signed, and progress with commercial creditors is advancing.\"},{\"label\":\"Financial Sector Regulatory Framework\",\"explanation\":\"Legislative reviews and deposit insurance implementation have bolstered the country's financial stability framework.\",\"pdf_page\":3,\"quote\":\"The review of the Banking and Financial Services Act and the adoption of the deposit insurance scheme are welcome steps to strengthen financial stability.\"},{\"label\":\"Investor Confidence Recovery\",\"explanation\":\"Comprehensive economic reforms have restored foreign investor confidence and supported credit rating upgrades.\",\"pdf_page\":6,\"quote\":\"The strong reform drive under the ECF arrangement has improved international investors' confidence including through recent upgrades of the sovereign credit rating.\"},{\"label\":\"Agricultural Policy Predictability\",\"explanation\":\"Legislative amendments in the agricultural sector are set to enhance market predictability and encourage private investment.\",\"pdf_page\":3,\"quote\":\"The revised Agricultural Acts will enhance predictability and support private sector investment.\"}],\"vulnerabilities\":[{\"label\":\"High Debt Distress Risk\",\"explanation\":\"Although judged sustainable, public debt remains exposed to high risks of overall and external distress.\",\"pdf_page\":3,\"quote\":\"Zambia's public debt is assessed as sustainable but remains at high risk of overall and external debt distress.\"},{\"label\":\"Elevated Inflationary Pressures\",\"explanation\":\"Inflation remains persistently high despite recent kwacha appreciation.\",\"pdf_page\":6,\"quote\":\"Despite trending down amid a sharp kwacha appreciation, inflation remains elevated.\"},{\"label\":\"Socioeconomic and Climate Vulnerabilities\",\"explanation\":\"Pervasive poverty and inequality leave the economy susceptible to climate shocks and political risks.\",\"pdf_page\":6,\"quote\":\"Poverty and inequality remain high, and the economic outlook is vulnerable to external shocks, climate events, and domestic political pressures ahead of the 2026 elections.\"},{\"label\":\"Electricity Supply Bottlenecks\",\"explanation\":\"Insufficient electricity generation continues to impede growth across the non-mining economy.\",\"pdf_page\":26,\"quote\":\"Economic activity has expanded although at a slower pace as electricity generation continues to weigh on the non-mining sector.\"},{\"label\":\"Delayed Anti-Corruption Reforms\",\"explanation\":\"Insufficient progress on anti-corruption legislation creates structural bottlenecks that threaten economic growth.\",\"pdf_page\":27,\"quote\":\"Lack of progress in amending the anticorruption framework undermines the effectiveness of structural reforms and represents a bottleneck to growth.\"},{\"label\":\"Copper Price Volatility\",\"explanation\":\"Global economic weakness could lower copper prices, putting downward pressure on the currency and public finances.\",\"pdf_page\":53,\"quote\":\"Weakened global demand may result in lower copper prices, widening external and fiscal balances and leading to kwacha depreciation.\"}]}",
+"tokens_in": 5828,
+"tokens_out": 704
+},
+"82": {
+"key": "926cde6a2d2b81d9392a29e3acaa62e9",
+"seconds": 27.85,
+"text": "{\"strengths\":[{\"label\":\"Mining and Agriculture Performance\",\"explanation\":\"Strong mining output and record-breaking maize production are driving real economic growth.\",\"pdf_page\":2,\"quote\":\"Real GDP growth is estimated at 5.2 percent in 2025, underpinned by strong mining activities and record-high maize production.\"},{\"label\":\"Electricity and Services Recovery\",\"explanation\":\"The projected economic expansion in 2026 relies on rebounding electricity production along with healthy mining and services.\",\"pdf_page\":2,\"quote\":\"Real GDP growth in 2026 is projected at 5.8 percent on the back of continued recovery in electricity generation and strong performance in mining and services.\"},{\"label\":\"Progress on Debt Restructuring\",\"explanation\":\"The government has made tangible progress in renegotiating its obligations with both official and commercial lenders.\",\"pdf_page\":3,\"quote\":\"External debt restructuring continues to advance as five bilateral agreements with official creditors have been signed, and progress with commercial creditors is advancing.\"},{\"label\":\"Financial Safety Net Enhancements\",\"explanation\":\"Regulatory modernization and a deposit insurance framework are boosting the resilience of the financial sector.\",\"pdf_page\":3,\"quote\":\"The review of the Banking and Financial Services Act and the adoption of the deposit insurance scheme are welcome steps to strengthen financial stability.\"},{\"label\":\"Agricultural Sector Predictability\",\"explanation\":\"Revisions to statutory agricultural legislation are intended to improve market transparency and encourage private investment.\",\"pdf_page\":3,\"quote\":\"The revised Agricultural Acts will enhance predictability and support private sector investment.\"},{\"label\":\"Strengthened Investor Confidence\",\"explanation\":\"Sustained reform implementation and recent sovereign credit rating upgrades have enhanced international investor sentiment.\",\"pdf_page\":6,\"quote\":\"The strong reform drive under the ECF arrangement has improved international investors' confidence including through recent upgrades of the sovereign credit rating.\"}],\"vulnerabilities\":[{\"label\":\"High Risk of Debt Distress\",\"explanation\":\"Zambia remains at high risk of overall and external debt distress despite debt restructuring progress.\",\"pdf_page\":3,\"quote\":\"Zambia's public debt is assessed as sustainable but remains at high risk of overall and external debt distress.\"},{\"label\":\"Socio-Economic and Political Exposure\",\"explanation\":\"Persistent poverty and electoral pressures combine with climate and external vulnerabilities to threaten the economic baseline.\",\"pdf_page\":6,\"quote\":\"Poverty and inequality remain high, and the economic outlook is vulnerable to external shocks, climate events, and domestic political pressures ahead of the 2026 elections.\"},{\"label\":\"Foreign Exchange Shortfall\",\"explanation\":\"Lower mining tax receipts in foreign currency caused shortfalls against international reserve targets.\",\"pdf_page\":6,\"quote\":\"The NIR QPC and IT were missed due to lower-than-projected FX-related mining tax inflows.\"},{\"label\":\"Persistent Inflationary Pressures\",\"explanation\":\"Even with a stronger exchange rate, inflation remains high above preferred target levels.\",\"pdf_page\":6,\"quote\":\"Despite trending down amid a sharp kwacha appreciation, inflation remains elevated.\"},{\"label\":\"Power Supply Bottlenecks\",\"explanation\":\"Constraints in electricity generation continue to hamper growth across non-mining sectors of the economy.\",\"pdf_page\":26,\"quote\":\"Economic activity has expanded although at a slower pace as electricity generation continues to weigh on the non-mining sector.\"},{\"label\":\"Stalled Anti-Corruption Reforms\",\"explanation\":\"Delays in updating anti-corruption laws weaken the broader structural reform agenda and hold back potential growth.\",\"pdf_page\":27,\"quote\":\"Lack of progress in amending the anticorruption framework undermines the effectiveness of structural reforms and represents a bottleneck to growth.\"}]}",
+"tokens_in": 5870,
+"tokens_out": 745
+},
+"83": {
+"key": "ea42722ff475e09b7432bbcf8fd39602",
+"seconds": 33.81,
+"text": "{\n  \"checks\": [\n    {\n      \"number\": 1,\n      \"supported\": true,\n      \"reason\": \"The quote directly confirms that real GDP growth in 2025 is underpinned by strong mining activities and record-high maize production.\"\n    },\n    {\n      \"number\": 2,\n      \"supported\": true,\n      \"reason\": \"The quote directly confirms that projected growth in 2026 is driven by recovery in electricity generation and strong performance in mining and services.\"\n    },\n    {\n      \"number\": 3,\n      \"supported\": true,\n      \"reason\": \"The quote states that bilateral agreements with official creditors have been signed and progress with commercial creditors is advancing.\"\n    },\n    {\n      \"number\": 4,\n      \"supported\": true,\n      \"reason\": \"The quote confirms that reviewing the Banking and Financial Services Act and adopting the deposit insurance scheme strengthen financial stability.\"\n    },\n    {\n      \"number\": 5,\n      \"supported\": false,\n      \"reason\": \"The quote mentions enhancing predictability and supporting private sector investment, but it does not mention improving market transparency.\"\n    },\n    {\n      \"number\": 6,\n      \"supported\": true,\n      \"reason\": \"The quote confirms that the reform drive under the ECF arrangement has improved international investor confidence, including via sovereign credit rating upgrades.\"\n    },\n    {\n      \"number\": 7,\n      \"supported\": false,\n      \"reason\": \"While the quote confirms that Zambia remains at high risk of overall and external debt distress, it does not mention that this is despite debt restructuring progress.\"\n    },\n    {\n      \"number\": 8,\n      \"supported\": true,\n      \"reason\": \"The quote confirms high poverty and inequality, alongside vulnerability to external shocks, climate events, and political pressures ahead of the 2026 elections.\"\n    },\n    {\n      \"number\": 9,\n      \"supported\": true,\n      \"reason\": \"The quote confirms that NIR reserve targets were missed because of lower-than-projected FX-related mining tax inflows.\"\n    },\n    {\n      \"number\": 10,\n      \"supported\": false,\n      \"reason\": \"The quote states that inflation remains elevated despite kwacha appreciation, but it does not mention preferred target levels.\"\n    },\n    {\n      \"number\": 11,\n      \"supported\": true,\n      \"reason\": \"The quote confirms that electricity generation continues to weigh on the non-mining sector, slowing economic expansion.\"\n    },\n    {\n      \"number\": 12,\n      \"supported\": true,\n      \"reason\": \"The quote confirms that lack of progress in amending the anticorruption framework undermines structural reforms and acts as a bottleneck to growth.\"\n    }\n  ]\n}",
+"tokens_in": 713,
+"tokens_out": 628
+},
+"84": {
+"key": "d47c976ace5df72e2646a03e81179989",
+"seconds": 16.68,
+"text": "{\n  \"gdp_growth_forecast_pct\": {\n    \"value\": 5.8,\n    \"year\": 2026,\n    \"pdf_page\": 4,\n    \"evidence\": \"Real GDP growth (%) 6.2 5.2 5.4 3.8 5.2 5.8 6.0\",\n    \"reason\": null\n  },\n  \"headline_inflation_rate_pct\": {\n    \"value\": 9.3,\n    \"year\": 2026,\n    \"pdf_page\": 4,\n    \"evidence\": \"Inflation annual average (%) 22.0 11.0 10.9 15.0 14.0 9.3 7.5\",\n    \"reason\": null\n  },\n  \"central_bank_policy_rate_pct\": {\n    \"value\": 14.25,\n    \"year\": 2025,\n    \"pdf_page\": 115,\n    \"evidence\": \"Nevertheless, the BoZ lowered its policy rate by 25 basis points to 14.25 in November 2025, after having maintained a tightening cycle between 2024 and February 2025 during which time the policy rate was cumulatively increased by 350 basis points to address rising inflation and currency depreciation.\",\n    \"reason\": null\n  },\n  \"non_performing_loan_ratio\": {\n    \"value\": 3.5,\n    \"year\": 2025,\n    \"pdf_page\": 40,\n    \"evidence\": \"Past due advances (NPL) to total advances 7.3 9.7 12.0 11.0 8.9 11.6 5.8 5.0 4.2 4.1 3.5\",\n    \"reason\": null\n  },\n  \"unemployment_rate_pct\": {\n    \"value\": null,\n    \"year\": null,\n    \"pdf_page\": null,\n    \"evidence\": null,\n    \"reason\": \"The national unemployment rate is not stated in the provided text.\"\n  },\n  \"tier_1_capital_ratio\": {\n    \"value\": 23.2,\n    \"year\": 2025,\n    \"pdf_page\": 40,\n    \"evidence\": \"Tier 1 regulatory capital to risk-weighted assets 19.2 23.4 24.5 20.1 20.1 17.8 23.3 21.9 22.8 23.0 23.2\",\n    \"reason\": null\n  }\n}",
+"tokens_in": 13848,
+"tokens_out": 634
+},
+"85": {
+"key": "822d21876ad41b802dc804ec6e0d7a4d",
+"seconds": 42.94,
+"text": "{\n  \"rows\": [\n    {\n      \"field\": \"gdp_growth_forecast_pct\",\n      \"verdict\": \"CORRECT\",\n      \"page_shows\": 5.8,\n      \"reason\": \"Page 4 and Page 72 report a real GDP growth projection of 5.8 percent for 2026.\"\n    },\n    {\n      \"field\": \"headline_inflation_rate_pct\",\n      \"verdict\": \"CORRECT\",\n      \"page_shows\": 9.3,\n      \"reason\": \"Page 4 and Page 115 show projected annual average inflation of 9.3 percent for 2026.\"\n    },\n    {\n      \"field\": \"central_bank_policy_rate_pct\",\n      \"verdict\": \"CORRECT\",\n      \"page_shows\": 14.25,\n      \"reason\": \"Page 115 states that the Bank of Zambia lowered its policy rate to 14.25 percent in November 2025.\"\n    },\n    {\n      \"field\": \"non_performing_loan_ratio\",\n      \"verdict\": \"CORRECT\",\n      \"page_shows\": 3.5,\n      \"reason\": \"Table 5 on Page 40 and paragraph 9 on Page 72 state that the NPL ratio was 3.5 percent as of September 2025.\"\n    },\n    {\n      \"field\": \"unemployment_rate_pct\",\n      \"verdict\": \"CORRECTLY_NULL\",\n      \"page_shows\": null,\n      \"reason\": \"The unemployment rate is not reported in the provided pages.\"\n    },\n    {\n      \"field\": \"tier_1_capital_ratio\",\n      \"verdict\": \"CORRECT\",\n      \"page_shows\": 23.2,\n      \"reason\": \"Table 5 on Page 40 shows Tier 1 regulatory capital to risk-weighted assets at 23.2 percent as of September 2025.\"\n    }\n  ]\n}",
+"tokens_in": 13804,
+"tokens_out": 474
+},
+"86": {
+"key": "0cfd9be3d36ff30f2355685685033233",
+"seconds": 8.47,
+"text": "{\"picks\":[{\"label\":\"Real GDP growth (%)\",\"why\":\"Measures the overall pace of economic expansion and business cycle trends.\"},{\"label\":\"Inflation annual average (%)\",\"why\":\"Reflects general price stability, purchasing power trends, and cost-of-living pressures.\"},{\"label\":\"Fiscal balance (cash basis, % GDP)\",\"why\":\"Captures the overall net stance and budget performance of public finances.\"},{\"label\":\"Public debt (% GDP)\",\"why\":\"Assesses sovereign debt burden, fiscal sustainability, and solvency dynamics.\"},{\"label\":\"Credit to private sector (% change)\",\"why\":\"Tracks financial intermediation, borrowing conditions, and private credit expansion.\"},{\"label\":\"Regulatory capital to risk-weighted assets\",\"why\":\"Measures the banking sector's capital adequacy, solvency cushions, and capacity to absorb losses.\"},{\"label\":\"Past due advances (NPL) to total advances\",\"why\":\"Indicates bank asset quality, portfolio deterioration, and credit risk exposure.\"},{\"label\":\"Liquid assets to total deposits\",\"why\":\"Gauges commercial bank liquidity reserves and vulnerability to funding stress.\"}]}",
+"tokens_in": 226,
+"tokens_out": 219
+},
+"87": {
+"key": "99282d8876ba3513d5853218f5d6e7b2",
+"seconds": 6.56,
+"text": "{\n  \"answer\": \"Staff projects real GDP growth to be 5.2 percent in 2025 and 5.8 percent in 2026 (with one passage also mentioning 5.6 percent for 2026).\\n\\nFor 2025, growth is constrained by continued energy shortages, specifically lower-than-projected hydropower generation and mining production.\\n\\nFor 2026, the drivers include:\\n- Mining output as the primary growth driver, supported by a ramp-up in investments.\\n- Construction, supported by road and airport infrastructure projects.\\n- Agriculture, which is expected to normalize following its 2025 rebound.\\nGrowth in 2026 remains weighed down by limited hydropower generation and periodic load management affecting non-mining performance.\",\n  \"citations\": [\n    \"W007\",\n    \"W140\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2668,
+"tokens_out": 208
+},
+"88": {
+"key": "88ae1af0e0a96bd7cec4f82c53db7083",
+"seconds": 5.13,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts stated in the answer, including the growth rates for 2025 and 2026 and their respective drivers and constraints, are directly derived from passages [W140] and [W007].\",\n  \"completeness_reason\": \"The answer completely and accurately answers all parts of the question, providing projected real GDP growth rates for both years and explaining the drivers and constraints behind them.\"\n}",
+"tokens_in": 2861,
+"tokens_out": 118
+},
+"89": {
+"key": "47d8e109874d04595e0e67a70068bb22",
+"seconds": 3.37,
+"text": "{\n  \"answer\": \"The quantitative performance criterion (QPC) that was missed was the end-June 2025 target on Net International Reserves (NIR). It was missed because of lower-than-projected foreign exchange (FX)-related mining tax inflows, which were only partially offset by a reduction in FX sales by the central bank. A waiver for non-observance was requested supported by corrective policy measures, which include a further calibrated reduction in FX sales and the sale of government bonds held by the Bank of Zambia to purchase $90 million in FX from the market in December 2025.\",\n  \"citations\": [\n    \"W021\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 3041,
+"tokens_out": 154
+},
+"9": {
+"key": "b7741f02078ac8b4e0a5f78419998f1d",
+"seconds": 22.32,
+"text": "{\"summary\": \"This section reports that real GDP grew 4.9 percent in 2025H1, while headline inflation fell to 10.9 percent in November 2025. The current account shifted to a deficit of 2.0 percent of GDP in 2025H1, and gross reserves reached $5.3 billion by mid-December 2025. Staff notes the end-September 2025 primary fiscal balance reached K 13.4 billion. While the authorities intend to limit non-resident bond allocations, staff, under the Fund's view, asks the authorities to remove this capital inflow measure as conditions allow.\"}",
+"tokens_in": 3152,
+"tokens_out": 145
+},
+"90": {
+"key": "e2022690cbcb56b30248f884f7c65058",
+"seconds": 4.31,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All details in the answer are directly supported by passage [W021].\",\n  \"completeness_reason\": \"The answer fully identifies the missed quantitative performance criterion (the end-June 2025 QPC on Net International Reserves) and explains why a waiver was requested (supported by specific corrective policy measures).\"\n}",
+"tokens_in": 3192,
+"tokens_out": 97
+},
+"91": {
+"key": "26d9f159e60be043d91f6f86b53f9bd4",
+"seconds": 4.04,
+"text": "{\n  \"answer\": \"I am sorry, but the provided passages do not contain information about the Bank of Zambia's decision on the policy rate in November 2025 or the reasons behind it.\",\n  \"citations\": [],\n  \"answerable\": false\n}",
+"tokens_in": 2792,
+"tokens_out": 59
+},
+"92": {
+"key": "ccae5f6aa2dc615b49a0988f38806f68",
+"seconds": 6.28,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 3,\n  \"faithfulness_reason\": \"The answer accurately states that the passages do not provide information on the Bank of Zambia's specific policy rate decision in November 2025 or the specific reasons for that decision.\",\n  \"completeness_reason\": \"While the passages do not contain the specific decision made in November 2025, they do partly address the general rationale behind policy rate decisions (noting that they are guided by inflation outcomes, forecasts, and identified risks in bringing inflation back to the target band). Because the passages only partly address the topic and cannot answer the question directly, completeness is rated 3.\"\n}",
+"tokens_in": 2859,
+"tokens_out": 151
+},
+"93": {
+"key": "3a0307dda03dc81657a81385cf828312",
+"seconds": 3.6,
+"text": "{\n  \"answer\": \"Zambia's overall risk of debt distress and risk of external debt distress are both rated as \\\"High.\\\" Despite this, Zambia's public debt is assessed as sustainable.\",\n  \"citations\": [\n    \"W198\",\n    \"W225\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2843,
+"tokens_out": 76
+},
+"94": {
+"key": "ec98a88190306e45bd50a9a5e6b84fe2",
+"seconds": 3.39,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer directly reflects the information provided in the passages, which state that both the overall and external risk of debt distress are rated 'High' and that public debt is assessed as sustainable.\",\n  \"completeness_reason\": \"The answer completely and accurately answers both components of the question.\"\n}",
+"tokens_in": 2908,
+"tokens_out": 88
+},
+"95": {
+"key": "adf12b0e22de4d4a2f8bd9d8dd4c51fe",
+"seconds": 5.1,
+"text": "{\n  \"answer\": \"Fuel-related arrears are being cleared through a liability management operation (LMO) involving negotiated discounts on late interest penalties. Settlement is financed by $74 million from government revenues in 2024 and $420 million in domestic bank loans with maturities of 3 to 5 years and interest rates below 13\u00bc percent. The domestic loan repayments are made in local currency, secured by non-tradable government bonds, with authorities reopening government bonds to match each loan's debt service. In addition, for one supplier, repayment entails discounted interest totaling $115.7\u2013$116 million scheduled to be paid in three equal installments between 2026 and 2028.\",\n  \"citations\": [\"W018\", \"W019\"],\n  \"answerable\": true\n}",
+"tokens_in": 2824,
+"tokens_out": 181
+},
+"96": {
+"key": "16c073814234c21332bfbb0ded2de927",
+"seconds": 5.29,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"The answer is entirely faithful to the provided passages, accurately summarizing the details of the liability management operation, funding sources, loan terms, and specific supplier repayment schedules.\",\n  \"completeness_reason\": \"The answer fully addresses the question by detailing how the arrears are being restructured, financed, and repaid according to the text.\"\n}",
+"tokens_in": 3002,
+"tokens_out": 95
+},
+"97": {
+"key": "ae72bc7b842a71cc2ae6291a7a2c7522",
+"seconds": 11.47,
+"text": "{\n  \"answer\": \"Fiscal costs and risks created by the Food Reserve Agency (FRA):\\n- Over-procurement and shortfalls: By end-October 2025, the FRA purchased 1.668 million metric tonnes (MT) of maize at an estimated cost of about K 11.3 billion\u2014far exceeding the budgeted MT543,000 and K 1.3 billion (plus K 1.0 billion for arrears)\u2014resulting in a shortfall of approximately K 9.0 billion (0.9 percent of GDP).\\n- Sales below cost recovery: Sales frequently occur below cost recovery, including implicit subsidies of about K 800 per MT on community sales due to unrecovered costs for transportation, storage, and fumigation.\\n- Debt and arrear risks: To pay farmers, the FRA took on K 5 billion in local bank debt collateralized by maize; the 2026 budget allocation of K 2.1 billion is insufficient to accommodate this repayment, risking a K 2 billion shortfall, renewed arrears, or off-budget borrowing.\\n\\nCommitted reforms include:\\n- Legal reforms: Submitting revised versions of the Food Reserve Agency Act, Agricultural Marketing Act, and Agricultural Credit Act to Parliament.\\n- Mandate and pricing: Streamlining the FRA's mandate strictly to maintaining national strategic food reserves and acting strictly as a buyer of last resort using market-based prices, with sales aimed at achieving cost recovery.\\n- Financial independence and discipline: Ensuring future operations are fully financed from the FRA's own resources, limiting government funding strictly to budget commitments, and delinking e-voucher eligibility from compulsory sales to the FRA.\\n- Institutional and market frameworks: Establishing the Agricultural Marketing Council (AMC) to guide reserve targets and interventions, setting up the Agriculture Market Observatory for market data, and enabling warehouse receipts to function as tradable financial instruments.\\n- Transparency: Publishing the FRA's 2024 audited financial statements and an audit of drought response procurement, logistics, storage, and distribution contracts.\",\n  \"citations\": [\n    \"W108\",\n    \"W111\",\n    \"W145\",\n    \"W169\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2686,
+"tokens_out": 481
+},
+"98": {
+"key": "4737a7b810ad52c822b3a73970aa7e65",
+"seconds": 4.77,
+"text": "{\n  \"faithfulness\": 5,\n  \"completeness\": 5,\n  \"faithfulness_reason\": \"All facts, figures, and reform commitments provided in the response are accurately extracted directly from the provided text passages without any hallucinations.\",\n  \"completeness_reason\": \"The response comprehensively answers both parts of the prompt, detailing the specific fiscal costs, shortfalls, debt liabilities, and subsidies associated with the FRA, as well as the full set of legislative, operational, and institutional reforms committed.\"\n}",
+"tokens_in": 3138,
+"tokens_out": 109
+},
+"99": {
+"key": "887b3e7040ed1571fc21327bfce80e1f",
+"seconds": 8.57,
+"text": "{\n  \"answer\": \"To diversify the energy mix and enhance climate resilience, the government is executing a multi-phase renewable energy plan under the Integrated Resource Plan (IRP 2023\u201350), which aims to increase the share of renewable energy (notably solar PV and wind) from 3 percent to 33 percent of total generation by 2030 and 56 percent by 2050. Key elements of the solar power plan include:\\n\\n- Approval Process: The Ministry of Energy streamlined approvals for solar projects from over six months down to 48 hours to support installing over 1,000 MW of capacity by end-2025.\\n- Utility-Scale and Local Projects: ZESCO and the private sector are investing in grid-connected utility-scale projects and green cities to generate an additional 1,265 MW and 80 MW, respectively.\\n- Projects Under Construction: Around 1,000 MW of solar capacity is under construction\u2014including projects in Chisamba (100 MW), Choma (50 MW), Kasama (100 MW), and Kariba (100 MW)\u2014with phased commissioning through 2026.\\n- Strategic Partnerships: A partnership signed with Tanzania's AMSONS Group in December 2025 is slated to add 500 MW of solar power to the grid within 18 months and the full 1,300 MW within 24 months.\",\n  \"citations\": [\n    \"W103\",\n    \"W105\",\n    \"W107\",\n    \"W170\"\n  ],\n  \"answerable\": true\n}",
+"tokens_in": 2845,
+"tokens_out": 369
+}
+}
+}
